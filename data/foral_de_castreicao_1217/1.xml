@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-03-05T14:25:49.384747+00:00</Created>
+        <LastChange>2024-03-05T14:25:49.385365+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="1.jpg" imageWidth="1532" imageHeight="2002">
+
+    
+    <TextRegion id="eSc_textblock_c6d422db" custom="structure {type:text;}">
+      <Coords points="1016,62 1046,62 1092,97 1394,111 1380,599 1402,675 1380,698 1380,844 1394,866 1362,912 1371,1071 1394,1097 1385,1151 1358,1174 1345,1450 1358,1564 1340,1588 1327,1702 764,1711 706,1733 692,1711 660,1707 115,1698 80,1637 129,1627 137,1574 115,1560 106,1494 66,1480 71,1316 84,1281 142,1271 151,1226 155,925 137,903 155,893 160,848 151,689 173,603 195,115 351,97 927,97 1016,62" />
+      
+      
+      <TextLine id="eSc_line_1e31156f" custom="structure {type:default;}">
+        <Coords points="754,1499 737,1499 737,1529 735,1548 1326,1549 1330,1531 1326,1499 837,1506 757,1499 754,1499" />
+        <Baseline points="738,1530 1331,1533" />
+        <TextEquiv>
+          <Unicode>n nne sce ⁊ ĩdiuidue tinitatis patis ⁊ filii ⁊ sps sci uniꝰ sũmi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f8b952e2" custom="structure {type:default;}">
+        <Coords points="737,1559 736,1572 1308,1571 1309,1562 1307,1538 737,1539 737,1559" />
+        <Baseline points="737,1559 1309,1562" />
+        <TextEquiv>
+          <Unicode>di , facimꝰ istã cartulã ipi nne tinitatis . Ego Sanciꝰ di gra</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e2d1232f" custom="structure {type:default;}">
+        <Coords points="811,1560 809,1560 737,1564 737,1582 736,1598 886,1596 893,1599 895,1601 896,1601 897,1601 898,1601 900,1601 906,1599 920,1596 925,1599 928,1602 930,1602 931,1602 932,1602 951,1599 969,1597 981,1599 993,1602 994,1602 995,1602 1091,1599 1122,1599 1137,1599 1221,1606 1222,1606 1223,1606 1237,1600 1318,1600 1319,1589 1317,1566 1247,1571 1224,1566 1222,1564 1221,1564 1220,1564 1214,1566 1190,1570 1084,1566 1020,1562 1019,1562 993,1566 966,1568 887,1568 885,1566 881,1561 880,1561 878,1561 877,1561 848,1566 835,1567 828,1566 812,1560 811,1560" />
+        <Baseline points="737,1582 1319,1589" />
+        <TextEquiv>
+          <Unicode>Port rex parit cũ uxore ma reg Dõna Dulcia ⁊ filiis ⁊ filiabꝰ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7cf80535" custom="structure {type:default;}">
+        <Coords points="1303,1588 1286,1588 1269,1588 1253,1588 1236,1588 1219,1588 1203,1588 1186,1588 1169,1586 1153,1586 1136,1586 1119,1586 1103,1586 1086,1586 1069,1586 1053,1586 1036,1586 1028,1584 735,1584 735,1608 734,1628 1335,1628 1336,1613 1333,1584 1303,1584 1303,1588" />
+        <Baseline points="736,1609 1337,1614" />
+        <TextEquiv>
+          <Unicode>mis ub hoibꝰ d Castaiciõ , qi ibi pplatores estis p mãdatũ mm ⁊ d fi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e972e606" custom="structure {type:default;}">
+        <Coords points="732,1634 730,1653 772,1652 777,1656 785,1662 786,1662 787,1662 849,1663 851,1663 852,1663 853,1663 853,1662 860,1657 863,1653 888,1657 931,1662 932,1662 956,1658 973,1654 977,1658 981,1661 982,1661 983,1661 1032,1666 1033,1666 1137,1661 1165,1667 1167,1667 1196,1660 1213,1657 1318,1661 1320,1641 1319,1628 1223,1619 1222,1619 1221,1619 1220,1619 1212,1624 1212,1626 1211,1624 1203,1619 1202,1619 1201,1619 1200,1619 1199,1619 1181,1623 1173,1626 1160,1623 1133,1619 1132,1619 1131,1619 1130,1619 1125,1622 1121,1626 1034,1626 951,1623 942,1618 939,1616 937,1616 936,1616 935,1616 917,1618 877,1622 866,1617 866,1616 865,1616 864,1616 863,1616 848,1616 769,1619 732,1613 732,1634" />
+        <Baseline points="732,1634 1030,1643 1320,1641" />
+        <TextEquiv>
+          <Unicode>liis mis tã psentes qm futuri, et outorgamꝰ ub qd p istã cartam</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      </TextRegion>
+    
+    </Page>
+</PcGts>

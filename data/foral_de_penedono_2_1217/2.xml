@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-02-23T15:08:55.936176+00:00</Created>
+        <LastChange>2024-02-23T15:08:55.936249+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="2.jpg" imageWidth="1532" imageHeight="2002">
+
+    
+    <TextRegion id="eSc_textblock_79a97a41" custom="structure {type:text;}">
+      <Coords points="341,40 892,40 1416,66 1434,124 1451,404 1429,466 1474,507 1469,528 1439,532 1429,551 1434,661 1465,689 1434,716 1442,804 1425,823 1456,1485 1438,1658 808,1671 705,1707 501,1680 271,1693 244,1676 240,1530 209,1502 209,1459 240,1435 244,871 231,742 244,711 218,706 221,670 173,661 169,609 186,591 243,591 249,572 235,538 253,413 213,430 213,360 249,279 213,252 240,225 231,182 249,176 249,53 341,40" />
+      
+      
+      <TextLine id="eSc_line_d631ec0e" custom="structure {type:default;}">
+        <Coords points="700,40 684,40 667,40 650,40 634,40 617,40 600,40 584,40 567,40 550,40 534,40 517,40 500,40 483,40 467,40 450,40 433,40 417,40 400,40 383,40 367,40 350,40 333,40 317,43 300,45 283,46 267,50 267,56 265,65 817,86 821,78 821,41 709,40 700,40" />
+        <Baseline points="268,58 822,79" />
+        <TextEquiv>
+          <Unicode>Nos reges supnnti qi hãc cartã fi pcepimꝰ corã subsciptis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_71e5df94" custom="structure {type:default;}">
+        <Coords points="265,83 263,95 732,110 735,103 735,78 265,58 265,83" />
+        <Baseline points="267,84 737,105" />
+        <TextEquiv>
+          <Unicode>eam roborauimꝰ ⁊ in ea hec signa fecimꝰ +++++.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_87afa8c8" custom="structure {type:default;}">
+        <Coords points="545,95 542,93 500,93 495,93 492,91 262,85 262,111 260,125 834,138 837,126 836,105 549,95 545,95" />
+        <Baseline points="263,112 634,126 838,128" />
+        <TextEquiv>
+          <Unicode>Qi affuer : Dõnꝰ Stephanꝰ Bracaren archieps ꝯf . Dõnꝰ Ma Port</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ba548909" custom="structure {type:default;}">
+        <Coords points="572,124 531,127 520,127 511,126 473,121 472,121 412,124 403,124 394,124 332,116 331,116 261,120 261,140 260,150 655,166 656,166 753,164 759,170 760,170 762,170 763,170 833,165 834,157 833,135 590,131 587,129 578,124 572,124" />
+        <Baseline points="261,140 834,157" />
+        <TextEquiv>
+          <Unicode>epc ꝯf . Dõnꝰ Petrꝰ Colimbien epc ꝯf . Dõnꝰ S. Vlixbon epc ꝯf .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_549b9dfe" custom="structure {type:default;}">
+        <Coords points="258,168 257,180 831,200 834,185 834,161 258,143 258,168" />
+        <Baseline points="259,169 828,186 835,186" />
+        <TextEquiv>
+          <Unicode>Dõnꝰ S. Elboren epc ꝯf . Dõnꝰ Plagiꝰ Lamecen epc ꝯf . Dõnꝰ Bar</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6b5e58e9" custom="structure {type:default;}">
+        <Coords points="255,194 255,212 272,207 279,213 280,213 281,213 282,213 285,213 314,209 346,214 353,215 354,215 371,215 433,212 475,217 496,220 497,220 521,219 564,215 582,220 592,222 594,222 595,222 596,222 603,220 613,217 816,224 818,211 818,192 744,186 743,186 742,186 732,190 723,192 712,189 697,184 696,184 695,184 694,184 686,189 680,191 666,187 637,182 636,182 562,185 536,186 534,184 529,181 529,180 528,180 527,180 526,180 525,180 512,184 510,185 507,184 493,177 492,177 491,177 466,183 460,184 459,183 451,176 450,176 449,176 448,176 447,176 432,182 430,183 428,182 412,175 411,175 410,175 359,179 342,173 341,173 340,173 339,173 338,173 327,180 309,174 308,174 307,174 255,177 255,194" />
+        <Baseline points="255,194 565,207 818,211" />
+        <TextEquiv>
+          <Unicode>Visen epc ꝯf . Dõnꝰ Mar Egitanien epc ꝯf . Dõnꝰ Mar Ihnis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6ba20ac4" custom="structure {type:default;}">
+        <Coords points="260,226 258,235 824,246 827,238 826,215 260,200 260,226" />
+        <Baseline points="262,228 829,239" />
+        <TextEquiv>
+          <Unicode>signif dni regis ꝯf . Dõnꝰ Petrꝰ Ihnis maiordomꝰ curie ꝯf .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_27713b22" custom="structure {type:default;}">
+        <Coords points="500,232 499,232 498,232 467,233 403,235 400,231 399,231 399,230 398,230 397,230 396,230 388,231 356,234 311,228 305,228 304,228 301,228 275,232 258,226 257,253 255,264 351,264 380,270 401,273 402,273 447,271 512,269 518,273 519,274 519,275 520,275 521,275 522,275 524,275 525,275 527,274 535,269 546,274 550,276 551,276 595,278 596,278 630,276 728,273 735,280 736,280 736,281 737,281 738,281 739,281 745,280 771,274 783,281 785,282 786,282 787,283 834,283 835,266 834,245 595,241 586,236 578,234 577,234 576,234 547,235 509,238 503,234 501,232 500,232" />
+        <Baseline points="257,253 835,266" />
+        <TextEquiv>
+          <Unicode>Dõnꝰ Lau Suarii ꝯf . Dõnꝰ Go Suarii ꝯf . Dõnꝰ Gil Valasqi ꝯf .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d7fa246a" custom="structure {type:default;}">
+        <Coords points="773,265 772,265 771,265 743,271 740,272 739,271 733,265 732,265 730,265 729,265 640,269 607,270 588,268 562,264 561,264 560,264 559,264 556,266 552,269 549,266 537,261 536,261 535,261 534,261 524,265 521,266 516,265 483,260 482,260 430,263 403,265 387,262 361,258 360,258 359,258 358,258 353,262 351,263 340,261 312,256 311,256 310,256 297,260 285,263 259,260 259,284 258,298 834,309 836,295 836,274 785,274 783,272 774,265 773,265" />
+        <Baseline points="259,284 836,295" />
+        <TextEquiv>
+          <Unicode>Dõnꝰ Fnãdꝰ Fnadi ꝯf . Dõnꝰ Ihns Fnandi ꝯf . Dõnꝰ Rodericus</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_031bb771" custom="structure {type:default;}">
+        <Coords points="261,309 260,319 304,328 305,328 343,322 348,322 354,323 394,330 396,330 436,325 442,325 456,326 502,332 503,332 505,332 514,329 520,326 542,330 574,334 575,334 592,332 613,329 831,340 833,323 832,301 261,289 261,309" />
+        <Baseline points="261,309 833,323" />
+        <TextEquiv>
+          <Unicode>Mdi ꝯf . Dõnꝰ Lopꝰ Alfonsi ꝯf . Dõnꝰ Ponciꝰ Alfonsi ꝯf . Mgr Plagiꝰ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_17fe8496" custom="structure {type:default;}">
+        <Coords points="258,340 257,350 400,362 401,362 440,355 457,363 458,363 459,363 493,357 495,357 496,357 510,363 511,363 512,363 539,358 540,358 557,365 558,365 559,365 560,365 585,359 586,359 589,359 647,368 648,368 696,362 709,369 710,369 756,370 757,370 758,370 759,370 768,363 787,371 788,371 789,371 791,371 792,371 799,364 828,364 831,353 831,331 639,321 638,321 605,326 592,328 577,325 536,319 535,319 505,324 497,325 493,324 482,318 481,318 480,318 479,318 467,323 465,324 461,323 447,319 446,319 445,319 418,322 410,323 407,322 393,316 392,316 391,316 390,316 380,322 379,322 258,320 258,340" />
+        <Baseline points="258,340 831,353" />
+        <TextEquiv>
+          <Unicode>cantor Port ts . Vĩcenciꝰ Mdi ts . Petrꝰ Garsie ts . Ihns Plagii ts .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c5bb0ed1" custom="structure {type:default;}">
+        <Coords points="258,372 257,378 634,390 637,383 635,355 258,340 258,372" />
+        <Baseline points="260,373 638,384" />
+        <TextEquiv>
+          <Unicode>Martinꝰ Petri ts . Sueriꝰ Stephani ts .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      </TextRegion>
+    
+    </Page>
+</PcGts>

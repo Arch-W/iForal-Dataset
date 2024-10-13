@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-02-08T17:43:46.271352+00:00</Created>
+        <LastChange>2024-02-08T17:43:46.271404+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="1.jpg" imageWidth="1676" imageHeight="2226">
+
+    
+    <TextRegion id="eSc_textblock_36b154bc" custom="structure {type:text;}">
+      <Coords points="472,168 943,178 958,183 943,197 954,242 974,231 974,178 1478,187 1478,399 1497,469 1478,558 1478,1082 1601,1088 1611,1116 1596,1161 1484,1156 1473,1192 1463,1759 959,1759 958,844 933,850 928,880 938,1096 923,1294 943,1339 923,1365 938,1582 923,1759 400,1759 400,1424 371,1355 405,1314 430,197 440,173 472,168" />
+      
+      
+      <TextLine id="eSc_line_d66d50fd" custom="structure {type:default;}">
+        <Coords points="968,1137 968,1155 1393,1151 1395,1135 1390,1111 966,1111 968,1137" />
+        <Baseline points="969,1138 1397,1136" />
+        <TextEquiv>
+          <Unicode>Forum atq custume de ciuitate Aguarda</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e27c0aa6" custom="structure {type:default;}">
+        <Coords points="972,1166 970,1183 1205,1179 1220,1185 1222,1187 1223,1187 1224,1187 1231,1187 1275,1181 1471,1187 1474,1168 1471,1140 972,1141 972,1166" />
+        <Baseline points="972,1166 1474,1168" />
+        <TextEquiv>
+          <Unicode>n nne patris ⁊ filii ⁊ spus sancti, amẽ . Hec est car</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e5defbb0" custom="structure {type:default;}">
+        <Coords points="969,1197 969,1214 1452,1206 1453,1194 1449,1171 968,1177 969,1197" />
+        <Baseline points="969,1197 1453,1194" />
+        <TextEquiv>
+          <Unicode>ta de foro quam iussi fi ego S. Di gra Port rex</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7ef81b9e" custom="structure {type:default;}">
+        <Coords points="970,1226 970,1242 1466,1236 1468,1221 1464,1203 969,1204 970,1226" />
+        <Baseline points="970,1226 1468,1221" />
+        <TextEquiv>
+          <Unicode>una cum filio mo rege Dõnno Alfonso ⁊ cetis filiis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5f01b270" custom="structure {type:default;}">
+        <Coords points="970,1255 970,1268 1459,1267 1460,1249 1457,1228 969,1231 970,1255" />
+        <Baseline points="970,1255 1460,1249" />
+        <TextEquiv>
+          <Unicode>⁊ filiabꝰ mis ub pplatoribꝰ de ciuitate Aguarda tã</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7188e848" custom="structure {type:default;}">
+        <Coords points="970,1282 970,1299 1469,1293 1470,1276 1466,1260 969,1262 970,1282" />
+        <Baseline points="970,1282 1470,1276" />
+        <TextEquiv>
+          <Unicode>psentibꝰ qm futuris. In pimis ꝯꝰ ub ut n detis p homi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_105e55e4" custom="structure {type:default;}">
+        <Coords points="969,1312 969,1331 1457,1323 1458,1308 1455,1291 968,1289 969,1312" />
+        <Baseline points="969,1312 1458,1308" />
+        <TextEquiv>
+          <Unicode>cidio ni CCC sl in appciadura ⁊ de istis CCC sl detis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9062c9ff" custom="structure {type:default;}">
+        <Coords points="968,1340 969,1359 987,1352 1465,1352 1466,1338 1463,1314 1417,1320 1328,1315 1307,1315 1306,1315 967,1321 968,1340" />
+        <Baseline points="968,1340 1466,1338" />
+        <TextEquiv>
+          <Unicode>VII.ᵃ ad palacium p ꝯcilium ⁊ per manũ iudicis. Et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_48b86200" custom="structure {type:default;}">
+        <Coords points="967,1371 967,1387 1468,1380 1469,1367 1465,1347 966,1350 967,1371" />
+        <Baseline points="967,1371 1469,1367" />
+        <TextEquiv>
+          <Unicode>ĩ aliqo pecto ul in aliq calumpnia n intret ms meiri</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ea47e016" custom="structure {type:default;}">
+        <Coords points="969,1399 969,1413 1468,1411 1468,1397 1465,1380 1238,1373 1236,1373 1235,1373 1214,1380 1048,1375 1047,1375 968,1381 969,1399" />
+        <Baseline points="969,1399 1468,1397" />
+        <TextEquiv>
+          <Unicode>nus ni iudex de uro ꝯcilio Et tcia pars de uro ꝯcilio</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c8f1ec63" custom="structure {type:default;}">
+        <Coords points="968,1429 968,1443 1462,1440 1463,1427 1460,1411 967,1406 968,1429" />
+        <Baseline points="968,1429 1463,1427" />
+        <TextEquiv>
+          <Unicode>faciat fossadum ⁊ due partes stent ĩ ura ciuitate.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b57e6889" custom="structure {type:default;}">
+        <Coords points="969,1460 969,1472 1459,1469 1460,1454 1458,1437 1415,1430 1413,1430 1364,1437 1358,1437 1353,1437 1308,1432 1307,1432 968,1438 969,1460" />
+        <Baseline points="969,1460 1460,1454" />
+        <TextEquiv>
+          <Unicode>Et de illa tcia que debuint face fossadum, ille qi ibi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_888919f4" custom="structure {type:default;}">
+        <Coords points="1463,1471 1463,1465 967,1465 968,1487 968,1497 1063,1505 1064,1505 1137,1497 1152,1503 1154,1503 1155,1503 1192,1497 1250,1502 1251,1502 1252,1502 1254,1502 1261,1496 1339,1502 1340,1502 1438,1501 1439,1501 1465,1492 1465,1482 1464,1476 1463,1471" />
+        <Baseline points="968,1487 1465,1482" />
+        <TextEquiv>
+          <Unicode>nõ fuit pectet p fossadeira V sl in apciadura . Et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_dc6ea193" custom="structure {type:default;}">
+        <Coords points="970,1514 970,1528 1465,1523 1466,1511 1464,1495 1299,1488 1298,1488 1243,1495 1135,1490 1134,1490 1133,1490 1131,1490 1120,1496 977,1491 975,1491 974,1491 973,1491 973,1492 969,1495 970,1514" />
+        <Baseline points="970,1514 1466,1511" />
+        <TextEquiv>
+          <Unicode>nõ faciatis fossadum ni cum dno uro una uice ĩ ãno ,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c5fe36d0" custom="structure {type:default;}">
+        <Coords points="970,1542 970,1560 1455,1555 1457,1539 1453,1521 969,1521 970,1542" />
+        <Baseline points="970,1542 1457,1539" />
+        <TextEquiv>
+          <Unicode>ni fuit p bnplacitum urm . Et clici ⁊ pedones nõ fa</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e1c44fd7" custom="structure {type:default;}">
+        <Coords points="967,1571 967,1589 1468,1580 1469,1566 1465,1548 966,1552 967,1571" />
+        <Baseline points="967,1571 1469,1566" />
+        <TextEquiv>
+          <Unicode>ciant fossadum. Et nõ intret ii nunciũ neq mana</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a231a88c" custom="structure {type:default;}">
+        <Coords points="967,1602 967,1613 1466,1613 1466,1599 1463,1574 966,1581 967,1602" />
+        <Baseline points="967,1602 1466,1599" />
+        <TextEquiv>
+          <Unicode>ria de aliqo homine de Aguarda. Et qi in tmino de A</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1e27d065" custom="structure {type:default;}">
+        <Coords points="1462,1618 1455,1608 967,1608 968,1631 968,1649 1464,1642 1465,1628 1463,1618 1462,1618" />
+        <Baseline points="968,1631 1465,1628" />
+        <TextEquiv>
+          <Unicode>gda filiam alienam rapuit ꝯ suam uoluntatẽ pet</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ee0efcef" custom="structure {type:default;}">
+        <Coords points="967,1662 967,1674 1457,1674 1458,1658 1454,1639 966,1642 967,1662" />
+        <Baseline points="967,1662 1458,1658" />
+        <TextEquiv>
+          <Unicode>ad palacium CCC sl ⁊ exeat p homicida. Et si aliqis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ec91a07d" custom="structure {type:default;}">
+        <Coords points="966,1690 966,1707 1462,1699 1463,1685 1460,1667 1085,1664 1084,1664 1083,1664 1082,1664 1082,1665 1077,1670 1076,1671 964,1671 966,1690" />
+        <Baseline points="966,1690 1463,1685" />
+        <TextEquiv>
+          <Unicode>ĩter uos in mcato aut ĩ ecc aut ĩ ꝯcilio appgonato</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8e9d6de0" custom="structure {type:default;}">
+        <Coords points="967,1718 967,1736 1459,1723 1460,1712 1457,1690 966,1699 967,1718" />
+        <Baseline points="967,1718 1460,1712" />
+        <TextEquiv>
+          <Unicode>pcusserit suũ uicinũ pectet LX.ᵃ sl ad ꝯciliũ ⁊ sit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_76d54490" custom="structure {type:default;}">
+        <Coords points="967,1748 967,1769 1088,1784 1089,1784 1090,1784 1128,1769 1335,1782 1337,1782 1338,1782 1358,1775 1393,1780 1395,1780 1396,1780 1431,1767 1462,1767 1462,1743 1458,1717 1088,1726 1072,1726 987,1721 985,1721 984,1721 966,1727 967,1748" />
+        <Baseline points="967,1748 1462,1743" />
+        <TextEquiv>
+          <Unicode>inde sept de palo p manũ iudicis. Et de qolibet fto</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    </Page>
+</PcGts>

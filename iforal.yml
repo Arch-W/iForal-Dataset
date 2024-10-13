@@ -1,0 +1,45 @@
+authors:
+- name: Alexandre
+  orcid: 0009-0007-4781-3294
+  roles:
+  - aligner
+  - quality-control
+  surname: Matos
+- name: Catarina
+  roles:
+  - transcriber
+  surname: Coelho
+automatically-aligned: false
+description: Ground Truth files for the iForal project
+format: Page-XML
+hands:
+  count: unknown
+  precision: exact
+institutions: []
+language:
+- lat
+- por
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: iForal
+project-website: https://iforal.hypotheses.org/
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notAfter: '1491'
+  notBefore: '1217'
+title: iForal-GroundTruth
+url: https://github.com/Arch-W/iForal-GroundTruth
+volume:
+- count: 776873
+  metric: characters
+- count: 180
+  metric: files
+- count: 8009
+  metric: lines
+- count: 183
+  metric: regions

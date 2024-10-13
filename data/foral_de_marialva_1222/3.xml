@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-02-16T11:49:14.779983+00:00</Created>
+        <LastChange>2024-02-16T11:49:14.780063+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="3.jpg" imageWidth="1676" imageHeight="2226">
+
+    
+    <TextRegion id="eSc_textblock_03a72952" custom="structure {type:text;}">
+      <Coords points="441,178 963,192 948,222 943,641 964,727 984,701 979,192 1497,197 1502,528 1517,539 1502,563 1517,900 1502,1215 1512,1329 1552,1388 1537,1428 1507,1429 1517,1655 1492,1774 435,1779 430,1528 415,1498 435,1230 441,178" />
+      
+      
+      <TextLine id="eSc_line_631d41f7" custom="structure {type:default;}">
+        <Coords points="937,191 925,191 912,190 900,190 888,190 875,190 863,189 850,189 838,189 826,187 813,187 801,187 789,187 776,186 764,186 752,186 739,185 727,185 714,185 702,185 690,184 677,184 675,184 672,186 672,187 580,187 580,186 550,180 549,180 494,186 462,180 461,180 460,180 442,186 442,208 442,227 943,227 943,208 943,191 937,191" />
+        <Baseline points="442,208 943,208" />
+        <TextEquiv>
+          <Unicode>Dõnus Rodicus Mdiz ꝯf . Dõnus Lopꝰ Alfonsi ꝯf . Dõ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9363d117" custom="structure {type:default;}">
+        <Coords points="442,237 441,257 554,258 555,258 556,258 557,258 560,255 566,251 603,251 611,255 613,258 614,258 615,258 744,259 745,259 747,259 768,253 774,252 778,253 791,259 792,259 794,259 838,252 844,252 847,252 869,259 870,259 872,259 873,259 874,259 881,252 883,252 928,252 930,239 928,217 442,217 442,237" />
+        <Baseline points="442,237 930,239" />
+        <TextEquiv>
+          <Unicode>nus Ponciꝰ Alfonsi ꝯf . Magr Plagius cantor Port</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a3ff3471" custom="structure {type:default;}">
+        <Coords points="444,272 444,283 932,280 933,269 931,248 829,243 828,243 795,249 791,249 789,249 770,243 769,243 768,243 766,243 765,243 758,249 756,251 619,251 613,246 613,244 612,244 611,244 559,244 557,244 505,251 468,244 467,244 466,244 442,252 444,272" />
+        <Baseline points="444,272 933,269" />
+        <TextEquiv>
+          <Unicode>ts . Vincenciꝰ Mdiz ts . Petrus Garsie ts . Ihns Plgii</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_cdd9fd13" custom="structure {type:default;}">
+        <Coords points="445,299 445,316 503,310 625,314 682,315 684,315 685,315 696,312 711,309 933,309 935,296 932,274 693,274 692,274 691,274 690,274 690,275 685,279 684,280 644,280 448,275 447,275 446,275 445,275 445,277 444,277 445,299" />
+        <Baseline points="445,299 935,296" />
+        <TextEquiv>
+          <Unicode>ts . Martinus Peti ts . Sueriꝰ Stephaniz ts . Gunsaluꝰ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1232865b" custom="structure {type:default;}">
+        <Coords points="441,324 439,341 703,343 707,326 705,300 441,300 441,324" />
+        <Baseline points="442,326 709,328" />
+        <TextEquiv>
+          <Unicode>Mdiz cancellariꝰ dni regis.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      </TextRegion>
+    
+    </Page>
+</PcGts>
