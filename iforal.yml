@@ -5,12 +5,26 @@ authors:
   - aligner
   - quality-control
   surname: Matos
+- name: Rui
+  orcid: 0000-0001-5767-1583
+  roles:
+  - transcriber
+  surname: Neves
+- name: Gonçalo
+  roles:
+  - transcriber
+  surname: Monteiro
 - name: Catarina
   roles:
   - transcriber
   surname: Coelho
+- name: Pedro
+  orcid: 0009-0004-9005-6688
+  roles:
+  - aligner
+  surname: Bastos
 automatically-aligned: false
-description: Ground Truth files for the iForal project
+description: Ground Truth files for the iForal project.
 format: Page-XML
 hands:
   count: unknown
@@ -32,8 +46,8 @@ script-type: only-manuscript
 time:
   notAfter: '1491'
   notBefore: '1217'
-title: iForal-GroundTruth
-url: https://github.com/Arch-W/iForal-GroundTruth
+title: iForal-Dataset
+url: https://github.com/Arch-W/iForal-Dataset
 volume:
 - count: 776873
   metric: characters
