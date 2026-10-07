@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-02-07T18:11:50.817994+00:00</Created>
+        <LastChange>2024-02-07T18:11:50.818073+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="3.jpg" imageWidth="1532" imageHeight="2002">
+
+    
+    <TextRegion id="eSc_textblock_514a4b49" custom="structure {type:text;}">
+      <Coords points="882,35 1296,40 1322,66 1331,1124 1318,1231 1251,1361 1273,1396 1264,1413 1322,1485 1300,1622 1269,1649 821,1676 786,1671 758,1644 638,1667 160,1644 142,1044 151,694 146,671 129,670 119,746 80,786 66,600 84,516 132,556 123,595 136,605 151,586 155,502 136,483 106,501 97,453 102,431 127,431 142,453 155,443 160,320 133,279 146,261 133,252 133,213 146,212 133,195 154,195 160,176 164,57 178,40 882,35" />
+      
+      
+      <TextLine id="eSc_line_d197dd4d" custom="structure {type:default;}">
+        <Coords points="687,35 670,35 654,35 637,36 620,36 604,36 587,36 570,36 554,36 537,36 520,36 503,36 487,36 470,36 467,36 405,36 403,38 392,38 178,41 170,48 171,76 171,96 695,81 697,68 692,35 687,35" />
+        <Baseline points="173,77 698,70" />
+        <TextEquiv>
+          <Unicode>Dõnꝰ B. Visen eps ꝯf . Dõnꝰ Mar Egitaniẽsis eps ꝯf . Dõnꝰ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_cbe1364c" custom="structure {type:default;}">
+        <Coords points="687,70 670,70 654,70 637,70 620,70 619,70 594,70 587,71 574,71 170,85 171,111 171,123 714,111 714,96 709,66 687,66 687,70" />
+        <Baseline points="172,113 715,98" />
+        <TextEquiv>
+          <Unicode>Martinꝰ Io signif dni regis ꝯf . Dõnꝰ P. Io maiordomꝰ curie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_199527e0" custom="structure {type:default;}">
+        <Coords points="700,98 684,98 672,98 664,98 650,100 634,100 625,100 585,100 584,101 579,101 166,115 168,141 168,156 722,143 724,128 719,96 700,96 700,98" />
+        <Baseline points="169,143 725,129" />
+        <TextEquiv>
+          <Unicode>ꝯf . Dõnꝰ Laurenciꝰ Suarii ꝯf . Dõnꝰ Ihns Fnãdi ꝯf . Dõnꝰ G. Suarii</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0fd443b5" custom="structure {type:default;}">
+        <Coords points="170,168 170,180 712,161 712,155 707,131 168,140 170,168" />
+        <Baseline points="171,169 713,156" />
+        <TextEquiv>
+          <Unicode>ꝯf . Dõnꝰ Gil Valasqiz ꝯf . Dõnꝰ Fnandꝰ Fnãdi ꝯf . Dõnꝰ Rodricꝰ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_38fb0637" custom="structure {type:default;}">
+        <Coords points="697,156 680,156 664,156 647,156 630,158 614,158 597,158 584,158 579,158 564,160 547,160 530,160 524,160 508,160 497,161 480,161 463,161 462,161 440,161 430,163 413,163 402,163 370,163 363,165 347,165 342,165 302,165 297,166 280,166 233,166 230,168 220,168 163,168 165,193 165,201 710,188 710,178 705,156 697,156" />
+        <Baseline points="166,195 711,179" />
+        <TextEquiv>
+          <Unicode>Mdi ꝯf . Dõnꝰ Ponciꝰ Alfonsi ꝯf . Dõnꝰ Lopꝰ Alfonsi ꝯf . Mgr</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_06dc09f1" custom="structure {type:default;}">
+        <Coords points="171,221 171,240 312,228 715,225 717,206 712,185 170,193 171,221" />
+        <Baseline points="172,222 719,207" />
+        <TextEquiv>
+          <Unicode>Plagiꝰ cantor Port ts . Petrꝰ Garsie ts . Vincẽciꝰ Mdi ts . Mar.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_051018d1" custom="structure {type:default;}">
+        <Coords points="163,251 163,275 236,273 238,273 240,273 263,261 283,268 285,268 287,268 328,260 337,266 347,266 348,266 350,265 367,253 405,261 412,263 413,263 415,263 425,261 467,250 482,256 485,258 487,258 488,258 720,241 722,233 717,210 161,230 163,251" />
+        <Baseline points="165,252 724,234" />
+        <TextEquiv>
+          <Unicode>Peti ts . Petrꝰ Peti ts . Ioanninꝰ ts . G. Mdi cancellariꝰ curie.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      </TextRegion>
+    
+    </Page>
+</PcGts>

@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-02-27T18:03:32.275017+00:00</Created>
+        <LastChange>2024-02-27T18:03:32.275058+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="4.jpg" imageWidth="1606" imageHeight="2166">
+
+    
+    <TextRegion id="eSc_textblock_6a84d33e" custom="structure {type:text;}">
+      <Coords points="1454,198 1445,415 1455,762 1441,837 1441,883 1442,944 1276,938 200,929 216,476 219,391 228,198 863,195" />
+      
+      
+      <TextLine id="eSc_line_47838fcd">
+        <Coords points="1262,276 1262,299 1331,310 1333,310 1335,310 1367,296 1367,276 1365,232 1262,245 1262,276" />
+        <Baseline points="1264,277 1369,277" />
+        <TextEquiv>
+          <Unicode>I s .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8fb61017">
+        <Coords points="1311,335 1311,357 1403,350 1403,335 1401,292 1311,294 1311,335" />
+        <Baseline points="1312,336 1405,337" />
+        <TextEquiv>
+          <Unicode>X sl .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_53790bf5">
+        <Coords points="252,413 404,420 406,391 406,355 328,342 326,342 325,342 310,346 289,353 254,342 252,391 252,413" />
+        <Baseline points="254,393 408,392" />
+        <TextEquiv>
+          <Unicode>Do poco</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_fffad27c">
+        <Coords points="1349,337 1347,337 1315,341 1280,346 1237,333 1235,375 1232,413 1264,415 1266,415 1268,415 1269,415 1269,413 1273,411 1284,400 1309,407 1333,415 1335,415 1336,415 1338,415 1372,402 1374,380 1374,346 1351,337 1349,337" />
+        <Baseline points="1236,377 1376,381" />
+        <TextEquiv>
+          <Unicode>II dros .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8ef27924">
+        <Coords points="1260,444 1259,462 1289,469 1291,469 1293,469 1295,469 1295,467 1302,462 1313,451 1378,460 1381,445 1380,391 1260,398 1260,444" />
+        <Baseline points="1261,445 1382,446" />
+        <TextEquiv>
+          <Unicode>II dros .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9f5600e7">
+        <Coords points="1342,445 1324,445 1316,445 1304,454 1297,460 1284,456 1262,449 1260,449 1259,449 1257,449 1233,458 1233,485 1232,509 1376,501 1378,490 1378,451 1347,445 1342,445" />
+        <Baseline points="1235,487 1379,491" />
+        <TextEquiv>
+          <Unicode>II dros .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b888b763">
+        <Coords points="1253,548 1253,568 1394,561 1396,546 1391,499 1251,505 1253,548" />
+        <Baseline points="1255,549 1397,547" />
+        <TextEquiv>
+          <Unicode>III mlhs .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a09221ee">
+        <Coords points="1183,606 1183,626 1318,613 1320,604 1313,552 1266,563 1181,557 1183,606" />
+        <Baseline points="1184,607 1322,605" />
+        <TextEquiv>
+          <Unicode>VI dros .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a24e05b9">
+        <Coords points="1206,678 1342,684 1345,664 1338,611 1282,631 1239,631 1206,615 1206,666 1206,678" />
+        <Baseline points="1208,667 1346,665" />
+        <TextEquiv>
+          <Unicode>I dro .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f95302f7">
+        <Coords points="1141,718 1141,734 1170,734 1174,736 1188,749 1190,749 1192,749 1194,749 1273,738 1345,729 1434,741 1437,709 1432,671 1139,673 1141,718" />
+        <Baseline points="1143,719 1438,711" />
+        <TextEquiv>
+          <Unicode>V sl ⁊ da meor II</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_01c38adb">
+        <Coords points="1248,828 1250,859 1298,844 1313,850 1327,857 1329,857 1331,857 1333,857 1367,842 1367,826 1362,776 1246,781 1248,828" />
+        <Baseline points="1249,829 1369,827" />
+        <TextEquiv>
+          <Unicode>I s .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_61f4753d">
+        <Coords points="1275,882 1275,907 1356,920 1358,920 1360,920 1385,906 1385,880 1380,835 1273,846 1275,882" />
+        <Baseline points="1276,883 1387,882" />
+        <TextEquiv>
+          <Unicode>I s .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0485d442" custom="structure {type:default;}">
+        <Coords points="231,279 231,294 449,299 451,299 709,285 711,272 706,229 672,229 670,227 644,214 643,214 587,214 585,214 583,214 549,227 540,231 505,227 411,218 410,218 408,218 381,227 375,229 370,227 350,222 348,222 346,222 345,222 343,222 336,227 325,236 280,236 267,227 258,220 256,220 254,220 252,220 251,220 249,220 249,222 242,227 238,232 229,227 231,279" />
+        <Baseline points="232,280 712,274" />
+        <TextEquiv>
+          <Unicode>Do caualo q venderem ẽ mecado</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e6a5ef83" custom="structure {type:default;}">
+        <Coords points="233,335 236,362 254,351 377,359 422,361 424,361 426,361 440,357 469,350 541,353 616,359 617,359 652,351 666,348 672,351 684,357 686,357 688,357 811,346 812,330 809,296 702,294 655,279 653,279 652,279 597,288 558,281 556,281 554,281 552,281 536,292 523,281 522,281 520,281 424,281 422,281 420,281 386,297 256,290 254,290 252,290 231,297 233,335" />
+        <Baseline points="234,337 814,332" />
+        <TextEquiv>
+          <Unicode>Do mouro q se fora cõ seu dono page</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_828c969d" custom="structure {type:default;}">
+        <Coords points="252,449 252,471 448,471 448,442 444,409 303,402 301,402 299,402 251,415 252,449" />
+        <Baseline points="254,450 449,443" />
+        <TextEquiv>
+          <Unicode>Do forom</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c711d107" custom="structure {type:default;}">
+        <Coords points="252,501 252,516 270,525 272,525 274,525 328,516 381,525 382,525 522,514 538,514 540,514 556,521 558,521 560,521 561,521 563,521 574,514 578,512 599,514 653,521 655,521 690,514 715,510 812,514 814,494 811,451 614,445 612,445 610,445 608,445 592,456 587,460 538,460 532,456 504,447 502,447 500,447 498,447 496,447 496,449 484,458 482,460 453,460 341,454 339,454 251,463 252,501" />
+        <Baseline points="254,503 815,496" />
+        <TextEquiv>
+          <Unicode>Do coyro da uaca ou da zeura</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_17ef2b34" custom="structure {type:default;}">
+        <Coords points="256,561 256,577 372,590 373,590 375,590 401,575 406,573 424,575 469,583 471,583 516,575 523,573 525,575 538,584 538,586 540,586 541,586 543,586 626,584 628,584 650,573 659,568 702,572 706,550 704,518 662,507 661,507 659,507 597,518 574,507 572,507 570,507 569,507 520,519 482,509 480,509 478,509 417,510 415,510 413,510 413,512 399,523 348,512 346,512 254,527 256,561" />
+        <Baseline points="258,563 707,552" />
+        <TextEquiv>
+          <Unicode>Do coyro do ceuo ⁊ do gamo</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7e1ca1b4" custom="structure {type:default;}">
+        <Coords points="254,622 254,631 314,646 316,646 370,644 372,644 373,644 390,629 392,629 393,629 431,637 433,637 435,637 437,637 448,629 451,628 569,628 569,613 565,575 504,563 502,563 500,563 467,575 466,575 464,575 449,564 448,564 446,564 444,564 442,564 406,575 395,577 392,575 384,568 382,568 381,568 379,568 377,568 375,568 368,575 363,579 348,575 332,570 330,570 328,570 252,573 254,622" />
+        <Baseline points="255,623 570,614" />
+        <TextEquiv>
+          <Unicode>Do boy ou do asno</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e786075d" custom="structure {type:default;}">
+        <Coords points="249,680 249,694 287,705 289,705 290,705 292,705 316,696 397,703 399,703 556,691 556,673 550,626 493,628 491,628 489,628 487,629 469,640 444,631 435,629 433,629 431,629 429,629 415,633 388,642 341,638 289,635 287,635 247,644 249,680" />
+        <Baseline points="250,682 558,675" />
+        <TextEquiv>
+          <Unicode>Da carega do pam</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_21743b60" custom="structure {type:default;}">
+        <Coords points="256,740 256,754 307,765 308,765 410,761 411,761 431,752 435,750 457,752 545,758 547,758 587,749 606,745 616,749 628,754 630,754 632,754 634,754 657,749 679,743 787,745 789,722 784,671 590,689 567,682 554,678 552,678 550,678 549,678 547,678 547,680 545,680 543,684 538,691 525,684 523,684 522,684 520,684 518,684 514,685 485,696 252,698 256,740" />
+        <Baseline points="257,741 352,741 506,729 790,722" />
+        <TextEquiv>
+          <Unicode>Da carega mayor das sadinhas</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_884ed1ca" custom="structure {type:default;}">
+        <Coords points="216,803 220,832 272,817 348,821 350,796 345,761 213,767 216,803" />
+        <Baseline points="218,805 352,797" />
+        <TextEquiv>
+          <Unicode>sl ⁊ meio.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3030eba0" custom="structure {type:default;}">
+        <Coords points="252,850 252,875 585,862 585,839 579,801 251,810 252,850" />
+        <Baseline points="254,851 587,841" />
+        <TextEquiv>
+          <Unicode>Da carega do sal</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5a8b978e" custom="structure {type:default;}">
+        <Coords points="265,942 339,936 357,942 373,947 375,947 377,947 379,947 404,942 437,933 484,938 511,942 513,942 541,938 599,927 637,934 655,938 657,938 659,938 677,934 717,924 747,933 756,934 758,934 760,934 825,929 825,893 818,844 755,860 691,850 690,850 688,850 650,864 547,853 545,853 543,853 541,853 540,853 520,868 433,857 429,857 428,857 426,857 399,871 337,862 336,862 287,873 263,862 265,911 265,942" />
+        <Baseline points="266,913 826,895" />
+        <TextEquiv>
+          <Unicode>Da carega das peixhotas ⁊ congros</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

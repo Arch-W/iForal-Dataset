@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-07-01T15:23:54.281033+00:00</Created>
+        <LastChange>2024-07-01T15:23:54.281108+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="1.jpg" imageWidth="1624" imageHeight="2202">
+
+    
+    <TextRegion id="eSc_textblock_1c8e8b22" custom="structure {type:text;}">
+      <Coords points="1247,181 1237,311 1256,533 1237,592 1232,734 1232,1383 1238,1399 1423,1394 1462,1409 1457,1437 1400,1447 1398,1481 1340,1520 1277,1515 1262,1468 1242,1477 1232,1706 1217,1731 972,1745 855,1731 190,1735 166,678 186,185 351,181 389,173 416,142 440,159 459,126 488,133 527,138 529,168 669,166 693,249 693,424 713,430 734,171 1222,156" />
+      
+      
+      <TextLine id="eSc_line_ec0768e8">
+        <Coords points="989,1434 989,1445 1181,1453 1185,1433 1181,1407 987,1403 989,1434" />
+        <Baseline points="990,1435 1187,1434" />
+        <TextEquiv>
+          <Unicode>Forum de Moreira</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5be05b98" custom="structure {type:default;}">
+        <Coords points="1099,1434 1080,1434 1062,1434 1044,1434 1025,1434 1007,1434 989,1434 976,1433 768,1433 770,1458 770,1475 1108,1475 1110,1453 1104,1434 1099,1434" />
+        <Baseline points="771,1460 1111,1455" />
+        <TextEquiv>
+          <Unicode>n nne sce ⁊ ĩdiuidue tinitatis patis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9be31d30" custom="structure {type:default;}">
+        <Coords points="1095,1455 1077,1455 1058,1456 1040,1456 1022,1456 1003,1458 985,1458 967,1460 948,1460 930,1460 912,1462 893,1462 875,1464 856,1464 838,1464 820,1466 801,1466 783,1467 765,1467 767,1486 767,1501 1214,1495 1216,1480 1211,1453 1095,1453 1095,1455" />
+        <Baseline points="768,1488 1218,1481" />
+        <TextEquiv>
+          <Unicode>⁊ filii ⁊ spt sci uniꝰ sũmi Di facimus cartam istam</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4f9b8086" custom="structure {type:default;}">
+        <Coords points="765,1515 765,1528 1212,1526 1214,1513 1209,1486 763,1491 765,1515" />
+        <Baseline points="767,1517 1216,1515" />
+        <TextEquiv>
+          <Unicode>ĩ ipiꝰ nne tinitatis . Ego rex Alfonsus Port parit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_06165d85" custom="structure {type:default;}">
+        <Coords points="1205,1515 1187,1515 1168,1515 1150,1515 1132,1515 1113,1515 1095,1515 1077,1515 1058,1515 1040,1515 1022,1515 1003,1515 985,1515 967,1515 948,1515 930,1515 912,1515 893,1515 875,1515 856,1515 838,1515 820,1515 801,1515 783,1515 765,1515 765,1543 765,1556 1216,1556 1216,1543 1216,1513 1205,1513 1205,1515" />
+        <Baseline points="767,1544 1218,1545" />
+        <TextEquiv>
+          <Unicode>cum filio mo rege Sancio ⁊ cum filiis mis ub</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9a39f095" custom="structure {type:default;}">
+        <Coords points="768,1545 765,1570 763,1585 1209,1583 1211,1574 1209,1550 776,1548 772,1545 768,1545" />
+        <Baseline points="766,1571 1212,1575" />
+        <TextEquiv>
+          <Unicode>homines de Moreira qi ibidem pplatores estis p</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_52b1002e" custom="structure {type:default;}">
+        <Coords points="1205,1574 1187,1574 1168,1574 1150,1574 1132,1574 1113,1574 1095,1574 1077,1574 1058,1574 1040,1574 1022,1574 1003,1574 985,1572 967,1572 948,1572 930,1572 912,1572 893,1572 875,1572 856,1572 838,1572 820,1572 801,1572 783,1572 765,1572 765,1603 765,1612 1209,1618 1211,1603 1211,1574 1205,1574" />
+        <Baseline points="766,1605 1212,1604" />
+        <TextEquiv>
+          <Unicode>mandatũ mm ⁊ de filiis mis siue qe uenint ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2c5622be" custom="structure {type:default;}">
+        <Coords points="1205,1605 1187,1605 1168,1605 1150,1605 1132,1605 1113,1605 1095,1605 1077,1605 1058,1605 1040,1605 1022,1605 1003,1605 985,1605 967,1605 948,1605 930,1605 912,1605 893,1605 875,1605 856,1605 838,1605 820,1605 801,1605 783,1605 765,1605 767,1633 767,1649 1218,1644 1220,1631 1216,1605 1205,1603 1205,1605" />
+        <Baseline points="768,1634 1221,1633" />
+        <TextEquiv>
+          <Unicode>pplamdum facimus ub cartulam sic ⁊ fecimus p</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e8a4cc11" custom="structure {type:default;}">
+        <Coords points="737,1662 737,1679 1222,1679 1223,1660 1218,1634 735,1636 737,1662" />
+        <Baseline points="739,1664 1225,1661" />
+        <TextEquiv>
+          <Unicode>sciptam ⁊ p pceptum mm firmit teneatis ut habea</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0a298ef4" custom="structure {type:default;}">
+        <Coords points="735,1691 735,1708 1222,1708 1222,1691 1222,1664 735,1664 735,1691" />
+        <Baseline points="736,1692 1223,1693" />
+        <TextEquiv>
+          <Unicode>tis foro bono ⁊ custume sic habẽt homines de Sala</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_96f9c2ae" custom="structure {type:default;}">
+        <Coords points="1212,1693 735,1695 737,1723 737,1734 803,1748 805,1748 945,1739 1036,1734 1220,1745 1222,1719 1220,1715 1212,1693" />
+        <Baseline points="739,1724 1223,1720" />
+        <TextEquiv>
+          <Unicode>manca. Et nõ detis mi nec ad pgenie mee nc ad nullo</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    </Page>
+</PcGts>

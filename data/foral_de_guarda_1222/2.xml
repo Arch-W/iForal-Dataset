@@ -1,0 +1,1118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-02-08T17:43:46.462673+00:00</Created>
+        <LastChange>2024-02-08T17:43:46.462724+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="2.jpg" imageWidth="1677" imageHeight="2226">
+
+    
+    <TextRegion id="eSc_textblock_a0a5d371" custom="structure {type:text;}">
+      <Coords points="891,173 1240,173 1265,187 1260,369 1284,489 1284,1309 1403,1340 1398,1393 1289,1409 1284,1537 1309,1627 1299,1705 1324,1774 1226,1779 1186,1754 771,1749 760,1517 745,1518 735,1582 740,1744 232,1759 212,1433 217,1033 202,988 222,187 730,183 730,419 735,448 760,460 756,187 891,173" />
+      
+      
+      <TextLine id="eSc_line_92ef4a18" custom="structure {type:default;}">
+        <Coords points="691,183 678,183 666,183 654,183 646,186 645,187 605,187 604,186 598,183 592,184 580,184 573,184 571,186 571,187 568,186 560,184 555,184 542,184 530,184 526,184 494,187 481,189 478,187 474,184 468,185 456,185 443,185 431,185 419,185 406,185 394,185 382,185 369,185 367,185 361,189 356,191 330,189 307,186 295,186 283,186 270,186 258,186 246,186 231,187 221,197 222,213 222,226 521,220 528,220 570,225 571,225 572,225 594,218 596,218 597,218 640,223 641,223 728,215 728,205 717,185 698,183 691,183" />
+        <Baseline points="222,213 728,205" />
+        <TextEquiv>
+          <Unicode>dus furti reccipiat suũ cabum ⁊ alias VII partes di</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_96db3392" custom="structure {type:default;}">
+        <Coords points="222,242 222,260 309,258 310,258 312,258 332,251 364,255 375,257 377,257 461,252 555,246 582,247 659,251 660,251 661,251 662,251 670,243 671,242 716,241 716,231 712,213 221,218 222,242" />
+        <Baseline points="222,242 716,231" />
+        <TextEquiv>
+          <Unicode>uidat cum iudice p mediũ . Et ille qi domum fecit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_86deb4fe" custom="structure {type:default;}">
+        <Coords points="222,269 222,280 591,280 591,279 592,279 593,279 594,278 603,272 618,278 619,278 620,278 622,278 716,277 717,259 714,242 445,242 443,242 405,248 404,248 403,248 389,243 388,243 387,243 341,249 340,249 312,244 311,244 221,252 222,269" />
+        <Baseline points="222,269 717,259" />
+        <TextEquiv>
+          <Unicode>aut uineã aut suam heditatẽ honauit ⁊ uno ãno</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c03f09b6" custom="structure {type:default;}">
+        <Coords points="221,293 221,304 717,301 717,285 714,270 467,267 466,267 465,267 463,267 453,273 302,269 301,269 300,269 299,269 299,270 293,277 220,277 221,293" />
+        <Baseline points="221,293 717,285" />
+        <TextEquiv>
+          <Unicode>ĩ illa sedit , si postea ĩ alia tra heditate uoluit , suiat</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_70b9eb93" custom="structure {type:default;}">
+        <Coords points="223,317 223,333 724,322 725,311 722,293 222,296 223,317" />
+        <Baseline points="223,317 725,311" />
+        <TextEquiv>
+          <Unicode>ei tota sua heditas uicumq habitauit . Et si uoluit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_42d96355" custom="structure {type:default;}">
+        <Coords points="225,341 225,352 599,354 601,354 725,347 727,336 723,319 223,324 225,341" />
+        <Baseline points="225,341 727,336" />
+        <TextEquiv>
+          <Unicode>illas uende uendat cui uoluit p forum de ura ciui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8a5a779e" custom="structure {type:default;}">
+        <Coords points="222,366 222,375 722,373 723,363 721,342 291,342 290,342 221,348 222,366" />
+        <Baseline points="222,366 723,363" />
+        <TextEquiv>
+          <Unicode>tate. Et homines de Agda qi debuint hre iudiciũ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0189a8af" custom="structure {type:default;}">
+        <Coords points="221,390 221,401 268,409 269,409 270,409 294,403 296,403 306,410 307,410 309,410 310,410 311,410 336,404 341,403 351,404 401,410 403,410 505,405 575,403 582,406 587,410 588,410 589,410 591,410 592,410 602,406 615,403 716,408 717,390 717,371 221,371 221,390" />
+        <Baseline points="221,390 717,390" />
+        <TextEquiv>
+          <Unicode>aut iuctã cum hominibꝰ de aliis tris , hat illud ĩ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_45f659d0" custom="structure {type:default;}">
+        <Coords points="220,425 220,439 315,445 316,445 345,439 348,439 723,439 723,419 719,396 594,403 589,399 586,395 584,395 583,395 550,395 549,395 547,395 546,395 541,399 536,403 531,400 525,396 524,396 523,396 521,396 520,396 520,398 519,398 518,400 514,404 451,401 396,399 395,399 394,399 393,399 393,400 390,403 387,405 366,403 319,398 317,398 218,405 220,425" />
+        <Baseline points="220,425 723,419" />
+        <TextEquiv>
+          <Unicode>capit suor tminor . Damus ub p foro q miles</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9a2e998f" custom="structure {type:default;}">
+        <Coords points="217,460 217,473 401,477 403,477 404,477 420,469 441,476 442,476 443,476 445,476 473,468 474,468 476,468 526,474 528,474 588,466 591,466 592,466 651,472 652,472 716,462 716,450 712,427 216,441 217,460" />
+        <Baseline points="217,460 716,450" />
+        <TextEquiv>
+          <Unicode>de Aguarda stet pro ĩfancone de toto nro regno ĩ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0e52417c" custom="structure {type:default;}">
+        <Coords points="216,489 216,509 263,502 740,495 740,476 737,460 215,467 216,489" />
+        <Baseline points="216,489 740,476" />
+        <TextEquiv>
+          <Unicode>iudicio et in iuramento ⁊ uincat ipm cum II iura</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_fa281030" custom="structure {type:default;}">
+        <Coords points="216,516 216,530 448,531 450,531 507,524 514,524 520,524 567,529 568,529 723,519 724,507 722,490 686,484 685,484 630,492 625,492 613,492 451,489 450,489 448,489 434,495 432,495 431,495 409,490 408,490 215,499 216,516" />
+        <Baseline points="216,516 448,516 724,507" />
+        <TextEquiv>
+          <Unicode>toribꝰ . Et pedes de Aguarda stet p milite uilano de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_49b6fd27" custom="structure {type:default;}">
+        <Coords points="216,544 216,558 528,558 528,557 629,550 650,555 651,555 652,555 717,546 717,534 713,514 215,521 216,544" />
+        <Baseline points="216,544 717,534" />
+        <TextEquiv>
+          <Unicode>totis tris nris in iudicio ⁊ in iuramento ⁊ uĩcat cũ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_60c3b704" custom="structure {type:default;}">
+        <Coords points="216,573 216,584 718,578 719,567 717,549 624,542 623,542 622,542 620,542 612,549 610,549 607,549 416,545 415,545 215,552 216,573" />
+        <Baseline points="216,573 719,567" />
+        <TextEquiv>
+          <Unicode>duobꝰ iuratoribꝰ . Et homines de suis tris exint cum</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6fd1fdea" custom="structure {type:default;}">
+        <Coords points="216,601 216,612 718,615 721,598 718,578 215,576 216,601" />
+        <Baseline points="216,601 721,598" />
+        <TextEquiv>
+          <Unicode>homicidio aut cum muliere rausata l cum alia ql</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e29a52eb" custom="structure {type:default;}">
+        <Coords points="216,631 216,641 714,643 717,628 714,609 598,602 597,602 541,609 437,603 436,603 435,603 434,603 434,604 427,609 238,605 237,605 236,605 215,612 216,631" />
+        <Baseline points="216,631 717,628" />
+        <TextEquiv>
+          <Unicode>calumpnia, excepto q nõ ducat mulierẽ alienã ⁊</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7268f661" custom="structure {type:default;}">
+        <Coords points="216,660 216,673 717,673 718,654 714,634 215,635 216,660" />
+        <Baseline points="216,660 718,654" />
+        <TextEquiv>
+          <Unicode>fecit se uassalum de aliqo homine de Aguarda sit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9a088212" custom="structure {type:default;}">
+        <Coords points="216,687 216,699 718,697 719,685 717,665 215,664 216,687" />
+        <Baseline points="216,687 719,685" />
+        <TextEquiv>
+          <Unicode>liber ⁊ defensus p forum de Aguarda. Et si ho de alia</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5c7deef8" custom="structure {type:default;}">
+        <Coords points="217,716 217,728 226,734 227,734 228,734 230,734 231,734 253,727 305,734 306,734 307,734 309,734 321,727 368,732 369,732 405,725 424,733 425,733 426,733 427,733 441,725 448,733 450,733 451,733 452,733 482,727 609,732 610,732 699,730 743,720 743,711 739,690 216,695 217,716" />
+        <Baseline points="217,716 743,711" />
+        <TextEquiv>
+          <Unicode>qlibet tra uenit cum inimicicia aut c pigore , pꝰq ĩ ter</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d6e30d37" custom="structure {type:default;}">
+        <Coords points="218,746 218,759 724,755 725,743 723,724 555,718 554,718 552,718 551,718 544,725 542,725 529,725 346,720 345,720 309,727 242,720 241,720 239,720 217,728 218,746" />
+        <Baseline points="218,746 725,743" />
+        <TextEquiv>
+          <Unicode>mio de Aguarda intrauit si inimicꝰ eiꝰ pꝰ ipm ĩtroierit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_539831fb" custom="structure {type:default;}">
+        <Coords points="220,776 220,788 723,790 725,772 722,751 218,751 220,776" />
+        <Baseline points="220,776 725,772" />
+        <TextEquiv>
+          <Unicode>⁊ ei pignꝰ abstulit aut aliq malũ illi fecit pectet dno</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e056e5d6" custom="structure {type:default;}">
+        <Coords points="221,806 221,818 728,811 729,798 725,780 310,781 309,781 307,781 299,787 231,782 230,782 228,782 227,782 220,786 221,806" />
+        <Baseline points="221,806 729,798" />
+        <TextEquiv>
+          <Unicode>qi tenuit Aguardã D sl ⁊ duplet pignꝰ ei cui abstulit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d9585d95" custom="structure {type:default;}">
+        <Coords points="221,834 221,854 298,845 319,852 320,852 321,852 322,852 324,852 325,852 337,844 500,845 686,848 687,848 737,838 737,828 734,811 220,810 221,834" />
+        <Baseline points="221,834 737,828" />
+        <TextEquiv>
+          <Unicode>⁊ liuores qos fecit . Et qi hominẽ de Aguarda pignora</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d49fc0f5" custom="structure {type:default;}">
+        <Coords points="223,864 223,874 723,869 724,859 721,840 622,840 620,840 603,834 602,834 601,834 599,834 573,840 568,842 554,842 472,835 471,835 469,835 446,842 441,843 440,842 434,837 432,837 431,837 366,837 364,837 363,837 349,843 345,844 336,843 311,838 310,838 222,843 223,864" />
+        <Baseline points="223,864 724,859" />
+        <TextEquiv>
+          <Unicode>uit ⁊ an nõ pecierit directum ĩ ꝯcilio uro pectet ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7800cc01" custom="structure {type:default;}">
+        <Coords points="222,890 222,900 714,897 716,886 713,868 221,865 222,890" />
+        <Baseline points="222,890 716,886" />
+        <TextEquiv>
+          <Unicode>placiũ LX sl ⁊ duplet pigora illi c accepit . Et ho de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4ccde12a" custom="structure {type:default;}">
+        <Coords points="222,915 222,928 723,923 723,912 721,895 221,891 222,915" />
+        <Baseline points="222,915 723,912" />
+        <TextEquiv>
+          <Unicode>alia tra qi militẽ de Guarda descaualgar pectet LX sl .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_583d2fdb" custom="structure {type:default;}">
+        <Coords points="221,939 221,950 717,949 718,936 714,920 220,920 221,939" />
+        <Baseline points="221,939 718,936" />
+        <TextEquiv>
+          <Unicode>Et homo de Aguarda qui militẽ de alia tra descaual</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7d7f6f42" custom="structure {type:default;}">
+        <Coords points="217,970 217,985 384,978 717,979 719,963 716,939 216,949 217,970" />
+        <Baseline points="217,970 719,963" />
+        <TextEquiv>
+          <Unicode>gar pectet V sl . Et si ho de alia tra apphendit hoinẽ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_049b9c09" custom="structure {type:default;}">
+        <Coords points="465,968 220,975 221,993 221,1001 712,1000 713,990 711,974 466,968 465,968" />
+        <Baseline points="221,993 713,990" />
+        <TextEquiv>
+          <Unicode>de Aguarda ⁊ eum ĩ psonẽ misit , pectet CCC sl . Et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ddca7a70" custom="structure {type:default;}">
+        <Coords points="708,1016 690,1016 671,1016 652,1016 634,1016 615,1016 597,1016 578,1016 560,1016 541,1016 523,1016 504,1016 495,1016 281,1016 283,1048 283,1057 716,1055 717,1046 712,1014 708,1014 708,1016" />
+        <Baseline points="285,1049 719,1047" />
+        <TextEquiv>
+          <Unicode>si ho de Agrda p aliq fiaduria p mediũ annũ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_17da0a09" custom="structure {type:default;}">
+        <Coords points="222,1072 222,1084 713,1085 716,1068 713,1052 630,1052 629,1051 620,1044 619,1044 618,1044 617,1044 554,1051 529,1052 221,1048 222,1072" />
+        <Baseline points="222,1072 716,1068" />
+        <TextEquiv>
+          <Unicode>n fuit reqisitꝰ sit liber de illa. ⁊ si mortuꝰ fuit mulier</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_21230721" custom="structure {type:default;}">
+        <Coords points="223,1103 223,1119 706,1115 707,1096 704,1078 629,1072 628,1072 627,1072 608,1078 605,1078 599,1078 546,1073 545,1073 509,1078 500,1080 222,1080 223,1103" />
+        <Baseline points="223,1103 707,1096" />
+        <TextEquiv>
+          <Unicode>⁊ filii eiꝰ sint libi de illa. Et homies de Aguarda n sol</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_81a17273" custom="structure {type:default;}">
+        <Coords points="225,1131 227,1151 237,1145 285,1150 296,1150 298,1150 716,1137 717,1124 713,1106 223,1109 225,1131" />
+        <Baseline points="225,1131 717,1124" />
+        <TextEquiv>
+          <Unicode>uant pignora p dno de Aguarda neque p meirino</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1aa1d11b" custom="structure {type:default;}">
+        <Coords points="225,1161 225,1173 725,1174 728,1156 725,1138 476,1134 474,1134 223,1142 225,1161" />
+        <Baseline points="225,1161 728,1156" />
+        <TextEquiv>
+          <Unicode>neque sint pignorati ni p suo uicino. Et milites de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9f35e4e0" custom="structure {type:default;}">
+        <Coords points="222,1190 222,1210 252,1204 335,1209 346,1209 347,1209 348,1209 349,1209 357,1203 728,1203 729,1185 727,1167 221,1167 222,1190" />
+        <Baseline points="222,1190 729,1185" />
+        <TextEquiv>
+          <Unicode>Aguarda neq mulieres uidue n dent pausatã p for</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_58bf9169" custom="structure {type:default;}">
+        <Coords points="222,1218 222,1235 284,1229 338,1235 346,1235 347,1235 353,1235 396,1229 432,1234 441,1235 442,1235 443,1235 447,1234 465,1228 729,1231 730,1218 729,1194 330,1199 326,1198 310,1193 309,1193 307,1193 306,1193 305,1193 305,1194 300,1199 299,1200 222,1200 222,1218" />
+        <Baseline points="222,1218 730,1218" />
+        <TextEquiv>
+          <Unicode>de Aguarda ni pedones p manũ de iudice. Et homĩes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_3670433c" custom="structure {type:default;}">
+        <Coords points="526,1219 525,1219 524,1219 515,1225 514,1225 512,1225 446,1220 445,1220 443,1220 421,1226 419,1226 411,1226 340,1221 338,1221 222,1228 223,1249 223,1263 299,1266 300,1266 301,1266 316,1262 330,1258 333,1262 336,1263 336,1265 337,1265 338,1265 340,1266 380,1266 380,1265 404,1260 422,1257 436,1260 458,1263 460,1263 609,1262 610,1262 612,1262 620,1256 623,1255 638,1256 702,1261 703,1261 704,1261 723,1253 723,1242 721,1224 528,1219 526,1219" />
+        <Baseline points="223,1249 723,1242" />
+        <TextEquiv>
+          <Unicode>de uris tminis qi sedint ĩ uris heditatibꝰ aut ĩ uros so</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_badfd67f" custom="structure {type:default;}">
+        <Coords points="225,1277 226,1294 244,1289 251,1294 254,1297 254,1298 256,1298 257,1298 258,1298 316,1293 331,1292 338,1292 371,1297 372,1297 373,1297 374,1297 383,1292 384,1291 385,1292 398,1297 399,1297 400,1297 476,1296 477,1296 489,1289 493,1287 497,1289 504,1292 505,1292 507,1292 508,1292 521,1288 533,1286 565,1286 568,1287 582,1294 583,1294 584,1294 629,1286 641,1284 737,1284 738,1271 734,1246 699,1252 649,1247 636,1246 635,1246 634,1246 629,1247 607,1255 223,1255 225,1277" />
+        <Baseline points="225,1277 738,1271" />
+        <TextEquiv>
+          <Unicode>lares ⁊ dni eor n fuint ii ueniant ad signũ de iudi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0a4890af" custom="structure {type:default;}">
+        <Coords points="226,1307 226,1318 711,1313 712,1300 711,1284 698,1277 697,1277 696,1277 630,1277 629,1277 586,1286 583,1286 582,1286 562,1278 561,1278 516,1278 515,1278 514,1278 513,1278 513,1279 505,1286 503,1288 403,1288 396,1286 389,1281 388,1281 387,1281 385,1281 384,1281 383,1281 375,1286 369,1288 225,1286 226,1307" />
+        <Baseline points="226,1307 712,1300" />
+        <TextEquiv>
+          <Unicode>ce ⁊ dent fideiussores q respondeant ad directũ qn</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ef04fabe" custom="structure {type:default;}">
+        <Coords points="226,1334 226,1344 729,1339 729,1330 725,1305 678,1313 604,1308 562,1305 561,1305 541,1309 518,1315 482,1315 478,1312 473,1307 472,1307 471,1307 469,1307 468,1307 467,1307 467,1308 463,1312 460,1315 373,1315 356,1314 309,1309 307,1309 306,1309 291,1315 268,1308 267,1308 265,1308 225,1317 226,1334" />
+        <Baseline points="226,1334 729,1330" />
+        <TextEquiv>
+          <Unicode>uenint dni sui. Et si fecint calumpniã pectent illã</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_85395dd2" custom="structure {type:default;}">
+        <Coords points="385,1334 373,1334 361,1334 348,1334 336,1334 324,1334 311,1334 299,1334 286,1334 225,1340 226,1361 226,1371 725,1367 727,1357 723,1333 388,1333 385,1334" />
+        <Baseline points="226,1361 727,1357" />
+        <TextEquiv>
+          <Unicode>dnis suis ⁊ VII.ᵃ ad palaciũ . Et n suiant ad aliũ ho</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ee35b02d" custom="structure {type:default;}">
+        <Coords points="227,1388 227,1398 723,1396 724,1386 721,1360 226,1361 227,1388" />
+        <Baseline points="227,1388 724,1386" />
+        <TextEquiv>
+          <Unicode>minẽ ni ad dnos suos in qor solare sedint . Et senare</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d2ef20c3" custom="structure {type:default;}">
+        <Coords points="226,1417 226,1427 727,1423 728,1413 725,1392 225,1392 226,1417" />
+        <Baseline points="226,1417 728,1413" />
+        <TextEquiv>
+          <Unicode>⁊ uinee dni regis hant tale for qle senare ⁊ uinee</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_03975b3d" custom="structure {type:default;}">
+        <Coords points="227,1443 227,1454 724,1455 727,1439 723,1418 226,1423 227,1443" />
+        <Baseline points="227,1443 727,1439" />
+        <TextEquiv>
+          <Unicode>ure habuint . Et qi uicinũ suũ occidit ⁊ ĩ domũ suã</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_afc489b1" custom="structure {type:default;}">
+        <Coords points="226,1471 226,1484 724,1484 725,1467 722,1448 225,1449 226,1471" />
+        <Baseline points="226,1471 725,1467" />
+        <TextEquiv>
+          <Unicode>fugit qi pꝰ illum ĩtrauit ⁊ ii eũ mactauit pectet CCC</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7c4774a5" custom="structure {type:default;}">
+        <Coords points="226,1502 226,1514 732,1516 734,1498 729,1470 712,1476 225,1475 226,1502" />
+        <Baseline points="226,1502 734,1498" />
+        <TextEquiv>
+          <Unicode>sl . Et qi mulierẽ afforciauit ⁊ illa uoces mittẽdo ue</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d51ff68b" custom="structure {type:default;}">
+        <Coords points="228,1533 228,1548 734,1540 734,1530 732,1509 227,1506 228,1533" />
+        <Baseline points="228,1533 734,1530" />
+        <TextEquiv>
+          <Unicode>nit , si ipe cum XII n potuit se saluare, pectet CCC sl .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d05193ec" custom="structure {type:default;}">
+        <Coords points="226,1564 226,1575 732,1575 733,1559 729,1535 225,1538 226,1564" />
+        <Baseline points="226,1564 733,1559" />
+        <TextEquiv>
+          <Unicode>Et qi mulierẽ alienã pcusserit pectet ad suũ maritũ XXX</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_236c27aa" custom="structure {type:default;}">
+        <Coords points="618,1560 604,1560 597,1561 584,1561 578,1561 226,1571 227,1592 227,1601 718,1595 719,1586 717,1566 619,1560 618,1560" />
+        <Baseline points="227,1592 719,1586" />
+        <TextEquiv>
+          <Unicode>sl ⁊ VII.ᵃ ad palaciũ . Et ho de Aguarda qi fideiussores</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0818db07" custom="structure {type:default;}">
+        <Coords points="228,1620 228,1634 724,1623 725,1613 722,1587 227,1597 228,1620" />
+        <Baseline points="228,1620 725,1613" />
+        <TextEquiv>
+          <Unicode>dare uoluit p intẽcoe de q eum ĩqietauint ⁊ dedit II.ᵒˢ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_18507fe4" custom="structure {type:default;}">
+        <Coords points="603,1616 602,1616 580,1622 488,1617 487,1617 486,1617 473,1623 254,1620 253,1620 252,1620 228,1626 230,1647 230,1663 729,1657 730,1642 728,1622 604,1616 603,1616" />
+        <Baseline points="230,1647 730,1642" />
+        <TextEquiv>
+          <Unicode>homines fideiussores ⁊ ipe sit tcius , si ille qi eum in</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7d4b9147" custom="structure {type:default;}">
+        <Coords points="230,1676 230,1692 335,1685 729,1686 732,1670 728,1648 228,1650 230,1676" />
+        <Baseline points="230,1676 732,1670" />
+        <TextEquiv>
+          <Unicode>qietauit uoluit recipere fideiussores ⁊ eũ pꝰea mactaue</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_074287ac" custom="structure {type:default;}">
+        <Coords points="230,1705 230,1722 268,1714 311,1721 316,1721 317,1721 319,1721 322,1721 354,1712 404,1718 418,1720 419,1720 420,1720 425,1717 441,1711 499,1711 507,1716 508,1717 509,1717 510,1717 512,1717 513,1717 519,1716 534,1711 557,1715 576,1717 577,1717 727,1710 728,1699 725,1680 330,1678 328,1678 228,1685 230,1705" />
+        <Baseline points="230,1705 728,1699" />
+        <TextEquiv>
+          <Unicode>rit totum ꝯcilium pectet homicidiũ ss parentibꝰ . Et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6dc3de62" custom="structure {type:default;}">
+        <Coords points="230,1735 230,1764 280,1762 281,1762 283,1762 283,1761 293,1753 345,1753 356,1764 358,1765 358,1767 359,1767 361,1767 362,1767 380,1763 437,1752 508,1756 518,1761 526,1765 528,1765 529,1765 614,1764 615,1764 617,1764 623,1759 634,1751 725,1757 727,1731 723,1709 581,1710 565,1704 563,1704 562,1704 561,1704 560,1704 551,1711 549,1712 535,1711 486,1705 484,1705 406,1712 398,1706 396,1706 395,1706 394,1706 393,1706 367,1714 366,1714 364,1714 342,1706 341,1706 340,1706 288,1714 262,1706 260,1706 259,1706 258,1706 228,1715 230,1735" />
+        <Baseline points="230,1735 727,1731" />
+        <TextEquiv>
+          <Unicode>palacium dni regis ⁊ palaciũ epi hant calumpniã ⁊</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e95b1c85" custom="structure {type:default;}">
+        <Coords points="1254,181 1244,175 1220,173 1216,173 1204,173 1192,173 1179,173 1169,173 1157,178 925,173 920,173 907,173 895,173 883,173 870,174 858,175 850,175 829,183 786,183 784,184 771,185 772,202 772,218 965,211 1002,213 1048,216 1049,216 1051,216 1062,211 1068,210 1090,211 1147,215 1148,215 1150,215 1164,208 1167,208 1173,208 1216,213 1218,213 1258,206 1258,196 1256,183 1254,181" />
+        <Baseline points="772,202 1258,196" />
+        <TextEquiv>
+          <Unicode>tota ciuitas hat unũ for . Et homo de Aguarda qi fi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ddba7c0a" custom="structure {type:default;}">
+        <Coords points="771,232 771,247 1251,236 1251,226 1249,207 1066,202 1064,202 770,212 771,232" />
+        <Baseline points="771,232 1251,226" />
+        <TextEquiv>
+          <Unicode>deiussor intrauit si ꝯtentor eũ n libauit qlẽ fecit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ff5c9f48" custom="structure {type:default;}">
+        <Coords points="774,259 774,270 1258,264 1258,253 1256,236 874,233 873,233 871,233 870,233 861,241 772,241 774,259" />
+        <Baseline points="774,259 1258,253" />
+        <TextEquiv>
+          <Unicode>talem pectet. Et si habuit illum suũ ĩtentorẽ mit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_57d7e6f6" custom="structure {type:default;}">
+        <Coords points="772,285 772,295 1250,296 1252,283 1249,265 771,267 772,285" />
+        <Baseline points="772,285 1252,283" />
+        <TextEquiv>
+          <Unicode>tat illum p se ⁊ ipe exeat de fiadoria. Et de suspec</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_964b5cb2" custom="structure {type:default;}">
+        <Coords points="775,314 775,324 1239,317 1240,307 1236,289 774,294 775,314" />
+        <Baseline points="775,314 1240,307" />
+        <TextEquiv>
+          <Unicode>ta de X sl ⁊ sup iuret cũ duobꝰ d suis uicinis, ⁊ de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8d2c6726" custom="structure {type:default;}">
+        <Coords points="771,340 771,354 1260,349 1260,333 1256,314 770,319 771,340" />
+        <Baseline points="771,340 1260,333" />
+        <TextEquiv>
+          <Unicode>X sl ad minꝰ iuret c uno uicino qlem habuit . Et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a7d934c8" custom="structure {type:default;}">
+        <Coords points="775,364 775,375 889,382 890,382 1240,371 1241,359 1239,343 890,340 889,340 774,347 775,364" />
+        <Baseline points="775,364 1241,359" />
+        <TextEquiv>
+          <Unicode>ho de Aguarda qi se tornauit ad alium dnũ ut ei</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e5f27ae4" custom="structure {type:default;}">
+        <Coords points="774,394 774,406 1155,406 1155,405 1156,405 1157,405 1164,399 1252,404 1255,388 1252,371 1061,366 1059,366 1058,366 1041,372 1038,372 965,367 964,367 963,367 962,367 962,368 955,373 949,373 874,368 873,368 871,368 870,368 861,374 860,375 772,375 774,394" />
+        <Baseline points="774,394 1255,388" />
+        <TextEquiv>
+          <Unicode>bnfaciat sua casa ⁊ sua heditas ⁊ uxor sua ⁊ filii sui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5f11a34e" custom="structure {type:default;}">
+        <Coords points="775,420 775,431 1255,426 1256,415 1254,398 774,396 775,420" />
+        <Baseline points="775,420 1256,415" />
+        <TextEquiv>
+          <Unicode>sint libi p forum de Aguarda. Damꝰ ⁊ ub p foro ut</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e042086f" custom="structure {type:default;}">
+        <Coords points="776,446 776,462 1079,462 1079,461 1080,461 1089,456 1093,455 1122,456 1208,461 1209,461 1250,453 1251,443 1249,427 1202,420 1200,420 1199,420 1178,426 1176,426 1171,426 1121,420 1120,420 1119,420 1118,420 1110,425 1108,427 1011,427 775,422 776,446" />
+        <Baseline points="776,446 1251,443" />
+        <TextEquiv>
+          <Unicode>n hatis aliũ dnm ni nos reges ⁊ filios nros ⁊</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e3d22383" custom="structure {type:default;}">
+        <Coords points="775,477 775,493 1258,484 1260,472 1256,453 774,456 775,477" />
+        <Baseline points="775,477 1260,472" />
+        <TextEquiv>
+          <Unicode>qm ꝯcilium uoluit . Et ho de Agrda qi fuit exere</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f09d977e" custom="structure {type:default;}">
+        <Coords points="775,509 775,521 1277,513 1278,502 1275,483 774,484 775,509" />
+        <Baseline points="775,509 1278,502" />
+        <TextEquiv>
+          <Unicode>datus ⁊ p manũ suã n pectauit suã heditatẽ uadat</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_755dfb11" custom="structure {type:default;}">
+        <Coords points="775,535 775,550 1261,546 1262,533 1258,510 774,511 775,535" />
+        <Baseline points="775,535 1262,533" />
+        <TextEquiv>
+          <Unicode>illam accipe sine aliq calumpnia. Et totꝰ ho de Ag</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_730a2d36" custom="structure {type:default;}">
+        <Coords points="777,568 777,577 826,584 827,584 828,584 854,578 918,583 920,583 921,583 922,583 931,577 957,583 958,583 959,583 1140,577 1146,582 1147,582 1148,582 1150,582 1151,582 1163,576 1246,581 1247,581 1249,581 1275,572 1275,563 1272,546 776,544 777,568" />
+        <Baseline points="777,568 1275,563" />
+        <TextEquiv>
+          <Unicode>rda qi habuit heditatẽ in alia tra nõ faciant fos</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4f1175b4" custom="structure {type:default;}">
+        <Coords points="774,598 774,610 1234,615 1235,615 1236,615 1255,608 1255,596 1251,575 772,577 774,598" />
+        <Baseline points="774,598 1255,596" />
+        <TextEquiv>
+          <Unicode>satum ni p for de Aguarda. Et ho de Aguarda qi ha</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5310eb57" custom="structure {type:default;}">
+        <Coords points="775,628 775,640 1263,636 1265,625 1262,607 774,604 775,628" />
+        <Baseline points="775,628 1265,625" />
+        <TextEquiv>
+          <Unicode>buit mulierẽ de bndicoe , si eam laxauit , pectet I d</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2df900bc" custom="structure {type:default;}">
+        <Coords points="775,655 775,666 1261,662 1262,650 1258,633 774,635 775,655" />
+        <Baseline points="775,655 1262,650" />
+        <TextEquiv>
+          <Unicode>ad iudicẽ . ⁊ si mulier laxauit suũ maritũ q habuit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9c644f00" custom="structure {type:default;}">
+        <Coords points="777,685 777,699 1275,691 1275,681 1272,664 942,659 941,659 939,659 917,665 786,660 785,660 784,660 782,660 776,664 777,685" />
+        <Baseline points="777,685 1275,681" />
+        <TextEquiv>
+          <Unicode>ad bndictioes , pectet CCC sl , medietatẽ ad pal ⁊ me</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a21bdbdc" custom="structure {type:default;}">
+        <Coords points="777,712 777,724 1270,728 1272,709 1267,686 1242,692 1218,686 1216,686 1215,686 1214,686 1213,686 1211,686 1192,693 1094,693 1087,687 1085,686 1084,686 1083,686 1082,686 1064,687 1012,693 1001,688 999,687 998,687 996,687 989,688 964,693 941,688 931,687 930,687 917,688 889,693 776,691 777,712" />
+        <Baseline points="777,712 1272,709" />
+        <TextEquiv>
+          <Unicode>dietatẽ ad suũ maritũ . Et qi dasrupit casam c lanceis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f9803649" custom="structure {type:default;}">
+        <Coords points="779,744 779,756 1271,760 1273,742 1271,719 951,719 949,719 948,719 947,719 928,725 777,720 779,744" />
+        <Baseline points="779,744 1273,742" />
+        <TextEquiv>
+          <Unicode>scutis de la porta adentro pectet ccc sl , medietatẽ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_045fc121" custom="structure {type:default;}">
+        <Coords points="780,774 780,786 1271,785 1272,769 1270,753 1160,746 1158,746 1157,746 1145,753 1141,753 1051,748 1049,748 779,755 780,774" />
+        <Baseline points="780,774 1272,769" />
+        <TextEquiv>
+          <Unicode>ad dnm de ipa casa ⁊ aliã medietatẽ ad pl . ⁊ si pcussit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d848d6e2" custom="structure {type:default;}">
+        <Coords points="780,801 780,818 1277,813 1277,801 1276,776 780,780 780,801" />
+        <Baseline points="780,801 1277,801" />
+        <TextEquiv>
+          <Unicode>suũ uicinũ cũ spata, pectet XL sl , VII.ᵃ ad pl . Et qui p</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6e00c491" custom="structure {type:default;}">
+        <Coords points="776,831 776,842 1271,838 1272,827 1268,808 775,808 776,831" />
+        <Baseline points="776,831 1272,827" />
+        <TextEquiv>
+          <Unicode>cussit suum uicinũ c lancea ⁊ exit de una parte ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_76a21813" custom="structure {type:default;}">
+        <Coords points="777,859 777,875 1267,868 1268,854 1265,831 1131,837 1080,834 1031,832 1030,832 1007,835 995,838 979,837 939,833 938,833 904,838 895,839 881,839 792,834 791,834 790,834 776,839 777,859" />
+        <Baseline points="777,859 1268,854" />
+        <TextEquiv>
+          <Unicode>aliã pectet XX sl ⁊ VII.ᵃ ad pal . ⁊ si n exierit ad aliã</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_05a8f050" custom="structure {type:default;}">
+        <Coords points="779,887 779,904 1268,895 1270,884 1266,864 777,868 779,887" />
+        <Baseline points="779,887 1270,884" />
+        <TextEquiv>
+          <Unicode>partẽ pectet X sl ⁊ VII.ᵃ ad pal . Et de plaga un ossa</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_73286289" custom="structure {type:default;}">
+        <Coords points="777,913 777,931 1270,922 1271,908 1268,892 797,890 796,890 795,890 776,896 777,913" />
+        <Baseline points="777,913 1271,908" />
+        <TextEquiv>
+          <Unicode>exierint, p uno qo osso pectet X sl VII.ᵃ ad pal . ⁊ de alia</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d6720d1a" custom="structure {type:default;}">
+        <Coords points="779,938 777,954 901,950 1002,954 1132,958 1134,958 1176,952 1178,952 1179,952 1186,958 1187,958 1188,958 1189,959 1245,959 1245,958 1246,958 1266,950 1267,941 1266,922 779,920 779,938" />
+        <Baseline points="779,938 1267,941" />
+        <TextEquiv>
+          <Unicode>plaga V sl VII.ᵃ ad pal . Et p tota pignora siue sĩt de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_15ba9219" custom="structure {type:default;}">
+        <Coords points="777,967 776,979 1270,979 1271,969 1268,944 777,947 777,967" />
+        <Baseline points="777,967 1271,969" />
+        <TextEquiv>
+          <Unicode>ꝯcilio siue de palacio recipiant fideiussorẽ p ad for .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b64f3d07" custom="structure {type:default;}">
+        <Coords points="776,991 775,1002 1267,1005 1270,994 1268,972 776,972 776,991" />
+        <Baseline points="776,991 1270,994" />
+        <TextEquiv>
+          <Unicode>Et ꝯꝰ ub q n hatis defesam neq montẽ neq pelagũ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4128a164" custom="structure {type:default;}">
+        <Coords points="777,1016 776,1027 1267,1035 1270,1019 1268,1001 777,999 777,1016" />
+        <Baseline points="777,1016 1270,1019" />
+        <TextEquiv>
+          <Unicode>ni de toto ꝯcilio . Et mõtadigũ de stremo de Aguarda</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5d7d1ae5" custom="structure {type:default;}">
+        <Coords points="777,1043 777,1057 1257,1057 1258,1041 1255,1025 776,1025 777,1043" />
+        <Baseline points="777,1043 1258,1041" />
+        <TextEquiv>
+          <Unicode>accipiant milites de Aguarda cum dno suo ⁊ hant</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9ee11356" custom="structure {type:default;}">
+        <Coords points="779,1070 779,1080 1026,1087 1027,1087 1171,1079 1251,1084 1252,1084 1254,1084 1282,1075 1282,1066 1280,1049 1193,1043 1192,1043 777,1052 779,1070" />
+        <Baseline points="779,1070 1282,1066" />
+        <TextEquiv>
+          <Unicode>in terciã partẽ . Et nullus accipiat mõtadigũ de ga</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_958a82d6" custom="structure {type:default;}">
+        <Coords points="781,1095 781,1108 1095,1113 1096,1113 1145,1105 1148,1105 1156,1105 1247,1111 1249,1111 1250,1111 1268,1104 1268,1091 1265,1070 780,1075 781,1095" />
+        <Baseline points="781,1095 1268,1091" />
+        <TextEquiv>
+          <Unicode>natis de Aguarda. ⁊ de carrega de portatico de pedone</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8fb26ac2" custom="structure {type:default;}">
+        <Coords points="779,1124 779,1137 1273,1137 1273,1124 1273,1108 1214,1100 1213,1100 1211,1100 1199,1106 1106,1100 1105,1100 1064,1106 1054,1100 1053,1100 1052,1100 1051,1100 1002,1106 904,1100 902,1100 901,1100 875,1106 855,1100 854,1100 853,1100 779,1106 779,1124" />
+        <Baseline points="779,1124 1273,1124" />
+        <TextEquiv>
+          <Unicode>III ml , ⁊ de caualo I sl , ⁊ de mulo I sl , ⁊ de ansino ⁊</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_935ad7a9" custom="structure {type:default;}">
+        <Coords points="1157,1125 1151,1125 1150,1125 1148,1125 1147,1125 1147,1126 1141,1131 1001,1127 1000,1127 891,1134 774,1127 775,1155 775,1169 1276,1169 1277,1151 1271,1125 1261,1131 1168,1125 1157,1125" />
+        <Baseline points="775,1155 1277,1151" />
+        <TextEquiv>
+          <Unicode>de boue VI d . Et de toto portatico q uenit ad Aguar</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_92dc57c4" custom="structure {type:default;}">
+        <Coords points="776,1183 775,1200 1286,1202 1288,1185 1288,1164 1266,1158 1265,1158 1263,1158 1262,1158 1244,1164 1209,1158 1208,1158 1137,1163 1118,1164 1098,1163 1051,1158 1049,1158 1017,1162 1005,1163 1002,1162 996,1157 995,1157 994,1157 993,1157 991,1157 980,1162 975,1163 776,1159 776,1183" />
+        <Baseline points="776,1183 1288,1185" />
+        <TextEquiv>
+          <Unicode>dam, hospes ui passauit accipiat terciã partẽ ⁊ porta</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0594d5f4" custom="structure {type:default;}">
+        <Coords points="774,1216 774,1229 844,1235 845,1235 847,1235 865,1229 871,1228 873,1229 880,1235 880,1236 881,1236 883,1236 884,1236 885,1236 900,1230 923,1236 925,1236 926,1236 927,1236 943,1229 948,1228 975,1229 1031,1234 1032,1234 1268,1229 1268,1209 1265,1189 772,1190 774,1216" />
+        <Baseline points="774,1216 1268,1209" />
+        <TextEquiv>
+          <Unicode>riꝰ accipiat duas partes. Totas istas intẽtoes iudicẽt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_34a2fcc1" custom="structure {type:default;}">
+        <Coords points="776,1245 776,1262 1262,1262 1263,1242 1260,1224 775,1225 776,1245" />
+        <Baseline points="776,1245 1263,1242" />
+        <TextEquiv>
+          <Unicode>alcaides ⁊ uilla ura p suam carta. ⁊ alias intẽcoes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b23f4f4e" custom="structure {type:default;}">
+        <Coords points="779,1272 779,1291 1271,1286 1271,1272 1271,1255 779,1255 779,1272" />
+        <Baseline points="779,1272 1271,1272" />
+        <TextEquiv>
+          <Unicode>iudicent s sensum suũ sic melius potuint . Et hoies</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6b9f1ac9" custom="structure {type:default;}">
+        <Coords points="777,1302 777,1319 1271,1318 1271,1302 1271,1283 777,1282 777,1302" />
+        <Baseline points="777,1302 1271,1302" />
+        <TextEquiv>
+          <Unicode>de Aguarda n dent portaticum ĩ toto nro regno. Facta</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_37b7fc9e" custom="structure {type:default;}">
+        <Coords points="780,1330 780,1341 1276,1341 1276,1330 1276,1313 780,1309 780,1330" />
+        <Baseline points="780,1330 1276,1330" />
+        <TextEquiv>
+          <Unicode>fuit h carta apud Colimbiam V.ᵒ kl Decembris e M.ᵃ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_628cd44d" custom="structure {type:default;}">
+        <Coords points="779,1359 779,1373 1265,1370 1266,1356 1263,1335 795,1334 793,1334 792,1334 777,1339 779,1359" />
+        <Baseline points="779,1359 1266,1356" />
+        <TextEquiv>
+          <Unicode>CC.ᵃ XXX.ᵃ VII.ᵃ anno regni nri XIIII.ᵒ. Nos reges qi hanc</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_86764c29" custom="structure {type:default;}">
+        <Coords points="779,1387 779,1404 1067,1397 1263,1402 1266,1385 1262,1362 777,1364 779,1387" />
+        <Baseline points="779,1387 1266,1385" />
+        <TextEquiv>
+          <Unicode>cartam fie pcepimus coram subsciptis eam robauimꝰ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_df4edf04" custom="structure {type:default;}">
+        <Coords points="780,1414 780,1432 1271,1427 1271,1414 1271,1394 780,1394 780,1414" />
+        <Baseline points="780,1414 1271,1414" />
+        <TextEquiv>
+          <Unicode>⁊ in ea h sig fecimus ++++++. Qicumq ig h nrm fcm</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6fdc9d7f" custom="structure {type:default;}">
+        <Coords points="781,1440 780,1454 1148,1461 1150,1461 1272,1455 1273,1444 1273,1424 1250,1418 1249,1418 1247,1418 1167,1424 1158,1424 1156,1424 1148,1418 1147,1418 1146,1418 1145,1418 781,1419 781,1440" />
+        <Baseline points="781,1440 1273,1444" />
+        <TextEquiv>
+          <Unicode>ub integrũ obseruauit sit bndictꝰ a Do , amẽ . Et to</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1524b417" custom="structure {type:default;}">
+        <Coords points="780,1472 780,1485 1270,1484 1271,1470 1267,1451 779,1454 780,1472" />
+        <Baseline points="780,1472 1271,1470" />
+        <TextEquiv>
+          <Unicode>tus uicinus de Aguarda nõ respondeat siue rãcu</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7bb6871f" custom="structure {type:default;}">
+        <Coords points="779,1502 779,1516 1270,1509 1271,1497 1268,1481 1049,1476 1048,1476 1016,1482 1014,1482 1006,1482 921,1477 920,1477 918,1477 900,1484 897,1485 777,1485 779,1502" />
+        <Baseline points="779,1502 1271,1497" />
+        <TextEquiv>
+          <Unicode>roso . Isti sunt tmini qos rex Dõnus S. ꝯcessit ciui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_22b5dcdd" custom="structure {type:default;}">
+        <Coords points="779,1532 779,1552 1267,1540 1267,1526 1265,1508 777,1508 779,1532" />
+        <Baseline points="779,1532 1267,1526" />
+        <TextEquiv>
+          <Unicode>tati de Guarda. In pimo de Coa p portum de Auazil ⁊</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4f4270ca" custom="structure {type:default;}">
+        <Coords points="781,1563 781,1576 948,1571 955,1573 979,1577 980,1577 981,1577 995,1571 999,1570 1004,1571 1022,1576 1024,1576 1025,1576 1135,1575 1136,1575 1158,1568 1160,1568 1258,1573 1260,1573 1261,1573 1277,1564 1277,1554 1273,1532 980,1542 967,1540 923,1537 922,1537 921,1537 905,1543 902,1543 900,1543 869,1538 868,1538 866,1538 847,1544 845,1544 792,1539 791,1539 790,1539 789,1539 780,1543 781,1563" />
+        <Baseline points="781,1563 1277,1554" />
+        <TextEquiv>
+          <Unicode>p portum uetꝰ de Pega. De parte de Celorico ⁊ p Lũbũ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_45378701" custom="structure {type:default;}">
+        <Coords points="784,1587 784,1601 1277,1601 1278,1584 1275,1565 782,1570 784,1587" />
+        <Baseline points="784,1587 1278,1584" />
+        <TextEquiv>
+          <Unicode>Velium ⁊ p fontẽ de Salgueira ⁊ p inter ambas fontes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c9195bbd" custom="structure {type:default;}">
+        <Coords points="780,1613 780,1633 816,1627 1270,1627 1272,1608 1268,1590 779,1595 780,1613" />
+        <Baseline points="780,1613 1272,1608" />
+        <TextEquiv>
+          <Unicode>de Couadoudi in directum ad Mõdegũ ui dns rex</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_279326d1" custom="structure {type:default;}">
+        <Coords points="781,1642 781,1658 1298,1650 1299,1639 1296,1620 780,1624 781,1642" />
+        <Baseline points="781,1642 1299,1639" />
+        <TextEquiv>
+          <Unicode>posuit cum sua manu petras. De parte de Linares per</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6d404c84" custom="structure {type:default;}">
+        <Coords points="782,1670 782,1683 1283,1685 1286,1667 1283,1643 1127,1643 1126,1643 1125,1643 1119,1646 1110,1649 1042,1647 948,1644 947,1644 917,1649 911,1650 896,1650 807,1646 806,1646 805,1646 781,1652 782,1670" />
+        <Baseline points="782,1670 1286,1667" />
+        <TextEquiv>
+          <Unicode>Mõdegum ⁊ p Albergariã de Mõdego ⁊ p carreirã ueliã</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a4ad3c60" custom="structure {type:default;}">
+        <Coords points="782,1700 782,1715 1278,1715 1280,1695 1277,1679 1208,1671 1207,1671 1205,1671 1189,1678 1181,1671 1179,1671 1178,1671 1177,1671 1176,1671 1152,1679 1151,1680 1074,1680 1073,1679 1061,1673 1059,1673 1058,1673 1057,1673 1056,1673 1056,1674 1049,1679 923,1674 922,1674 892,1680 886,1683 808,1683 807,1681 800,1675 798,1675 797,1675 796,1675 795,1675 781,1680 782,1700" />
+        <Baseline points="782,1700 1280,1695" />
+        <TextEquiv>
+          <Unicode>qe uadit p Couilianã ⁊ Barrelas cum toto suo tmino</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_330e21e0" custom="structure {type:default;}">
+        <Coords points="780,1733 780,1752 824,1752 840,1765 842,1765 843,1765 844,1765 845,1765 886,1754 904,1763 905,1763 906,1763 907,1763 908,1763 925,1752 934,1759 936,1759 937,1759 938,1759 939,1759 955,1752 1011,1764 1012,1764 1014,1764 1032,1758 1139,1763 1140,1763 1141,1763 1167,1752 1190,1759 1192,1759 1193,1759 1194,1759 1195,1759 1214,1747 1294,1746 1294,1728 1293,1711 1260,1702 1258,1702 1257,1702 1256,1702 1239,1710 1230,1702 1229,1702 1228,1702 1226,1702 1225,1702 1209,1710 1205,1710 1150,1705 1148,1705 1147,1705 1139,1710 1135,1711 1124,1710 1089,1704 1088,1704 1087,1704 1085,1704 1085,1705 1080,1709 1078,1712 1035,1712 1011,1709 990,1705 989,1705 957,1709 905,1714 779,1707 780,1733" />
+        <Baseline points="780,1733 1294,1728" />
+        <TextEquiv>
+          <Unicode>qomo spartit cum Valelias pelo Peso ⁊ pelo semdeiro da</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f2b8c954" custom="structure {type:default;}">
+        <Coords points="1313,1751 1281,1751 1276,1746 1268,1738 1268,1737 1267,1737 1266,1737 1265,1737 1221,1738 1223,1768 1223,1789 1322,1784 1322,1767 1320,1765 1313,1751" />
+        <Baseline points="1223,1768 1322,1767" />
+        <TextEquiv>
+          <Unicode>Mo</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    </Page>
+</PcGts>

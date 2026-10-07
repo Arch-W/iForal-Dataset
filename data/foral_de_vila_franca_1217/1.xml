@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-03-02T17:25:07.694230+00:00</Created>
+        <LastChange>2024-03-02T17:25:07.694284+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="1.jpg" imageWidth="1570" imageHeight="2026">
+
+    
+    <TextRegion id="eSc_textblock_2d17730a" custom="structure {type:text;}">
+      <Coords points="1362,54 1389,85 1394,124 1367,144 1367,165 1421,175 1416,192 1372,178 1349,198 1367,228 1344,229 1353,260 1394,282 1362,337 1376,360 1367,413 1385,414 1385,440 1358,477 1376,782 1353,900 1353,1394 1331,1741 1224,1772 1200,1799 836,1826 779,1817 733,1705 166,1705 157,1445 94,1417 103,1382 153,1372 138,1336 103,1332 143,1332 157,1313 153,652 94,611 94,468 108,432 153,422 162,126 193,112 661,103 701,90 720,63 734,76 790,67 796,85 822,59 958,58 1327,45" />
+      
+      
+      <TextLine id="eSc_line_3e9ea337">
+        <Coords points="1081,54 1064,54 1047,55 1030,55 1013,55 997,57 980,57 963,57 946,59 929,59 912,59 895,59 883,59 844,59 848,99 848,116 951,106 970,106 1029,111 1030,111 1093,96 1093,86 1088,54 1081,54" />
+        <Baseline points="850,101 1094,87" />
+        <TextEquiv>
+          <Unicode>For d Villa Franca</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_34a49895" custom="structure {type:default;}">
+        <Coords points="755,127 755,138 1339,136 1340,122 1337,96 1310,95 1309,95 1308,95 1307,95 1306,96 1299,102 1228,97 1192,95 1191,95 1190,95 1180,97 1160,103 1113,99 1085,96 1084,96 1083,96 1074,100 1062,103 1049,100 1041,97 1040,97 1039,97 1038,97 1037,97 1035,100 1028,105 984,105 976,101 971,97 970,97 969,97 968,97 967,97 958,101 950,104 947,101 944,99 943,99 942,99 941,99 940,99 939,99 935,101 931,105 848,105 842,102 836,99 835,99 834,99 833,99 832,99 831,99 825,103 821,105 754,104 755,127" />
+        <Baseline points="755,127 1340,122" />
+        <TextEquiv>
+          <Unicode>n nne s. ⁊ ĩdiuidue tinitatis patis ⁊ f. ⁊ s. sci uniꝰ sũmi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8403b9b4" custom="structure {type:default;}">
+        <Coords points="753,155 753,172 813,164 964,164 971,167 974,169 975,169 976,169 977,169 1315,159 1316,149 1314,126 1276,124 1274,124 1273,124 1270,126 1260,131 1249,127 1247,127 1246,127 1033,133 1014,130 997,127 996,127 995,127 982,130 966,135 950,131 935,128 934,128 933,128 932,128 928,131 922,135 912,131 901,128 899,128 898,128 752,133 753,155" />
+        <Baseline points="753,155 1316,149" />
+        <TextEquiv>
+          <Unicode>Di facimꝰ istã cartã ĩ ipiꝰ nne tinitatis . Ego rex Sãciꝰ cũ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f1c0a195" custom="structure {type:default;}">
+        <Coords points="751,182 751,192 766,199 768,199 769,199 770,199 791,192 795,192 810,192 907,198 908,198 978,193 1011,191 1030,193 1059,196 1060,196 1101,193 1152,189 1167,193 1174,195 1175,195 1176,195 1188,193 1216,187 1224,193 1225,193 1226,193 1227,193 1228,193 1264,187 1339,193 1341,180 1339,157 750,158 751,182" />
+        <Baseline points="751,182 1236,176 1341,180" />
+        <TextEquiv>
+          <Unicode>uxore ma reg Dna Dulcia parit c filio mo rege Alfõso</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b179dfbe" custom="structure {type:default;}">
+        <Coords points="1321,180 1309,180 1308,178 1230,186 1206,181 1198,180 1197,180 1187,182 1157,187 1146,182 1144,182 1143,182 1142,182 1121,183 1047,189 994,186 924,183 923,183 922,183 912,189 906,191 885,189 832,184 831,184 830,184 806,191 803,192 801,191 792,185 791,185 790,185 789,185 746,192 747,212 747,228 1325,216 1325,204 1322,180 1321,180" />
+        <Baseline points="747,212 1325,204" />
+        <TextEquiv>
+          <Unicode>⁊ cũ aliis filiis ⁊ filiabꝰ nris ub hoies d Villa Frãca qi ibid</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_df0a0105" custom="structure {type:default;}">
+        <Coords points="765,241 765,260 837,252 925,256 926,256 953,250 970,256 971,256 973,256 1022,255 1065,254 1066,254 1067,254 1067,253 1072,249 1075,253 1075,254 1076,254 1077,254 1078,254 1084,254 1184,253 1185,253 1187,253 1196,247 1219,252 1220,252 1221,252 1223,252 1238,246 1249,250 1250,250 1251,250 1252,250 1253,250 1262,245 1270,250 1271,250 1272,250 1273,250 1334,249 1334,232 1332,214 1262,209 1261,209 1260,209 1259,209 1250,214 1247,214 1191,210 1190,210 1189,210 1176,216 1175,216 1172,216 1140,211 1139,211 764,219 765,241" />
+        <Baseline points="765,241 1334,232" />
+        <TextEquiv>
+          <Unicode>pplatores estis p mãdatũ mm ⁊ d filiis nris siue qi uenit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7ed03b26" custom="structure {type:default;}">
+        <Coords points="759,266 759,278 1171,281 1172,281 1173,281 1174,281 1182,274 1183,274 1193,280 1194,280 1196,280 1310,273 1312,262 1309,245 757,244 759,266" />
+        <Baseline points="759,266 1312,262" />
+        <TextEquiv>
+          <Unicode>ad pplandũ facimꝰ cartã ub ⁊ sct ⁊ fecimꝰ p sciptam</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_99800271">
+        <Coords points="1311,261 1294,263 1277,263 1260,263 1243,263 1226,263 1210,263 1193,263 1176,263 1159,263 1142,263 1125,263 1108,263 1091,263 1074,263 1057,263 1041,263 1024,265 1007,265 990,265 973,265 956,265 939,265 927,265 736,266 738,295 738,305 1321,300 1321,285 1316,258 1311,258 1311,261" />
+        <Baseline points="740,297 1322,287" />
+        <TextEquiv>
+          <Unicode>et p pceptũ nrm firmit teneatis ut hatis for bonũ sct</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_071bc4c1">
+        <Coords points="1024,292 1022,292 927,292 922,293 905,293 888,293 878,293 831,293 821,295 804,295 787,295 770,295 753,295 736,295 738,322 738,339 1314,329 1316,315 1311,288 1024,290 1024,292" />
+        <Baseline points="740,324 1318,316" />
+        <TextEquiv>
+          <Unicode>hnt hoies d Trõcoso . ⁊ nõ detis nb nc ad pgeniẽ nram nc</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a7b0fbc5">
+        <Coords points="741,352 741,366 1331,362 1331,347 1328,319 740,324 741,352" />
+        <Baseline points="742,353 1305,345 1333,348" />
+        <TextEquiv>
+          <Unicode>ad hoiem p homicidio ni septimã d CCC sl ad placiũ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_549b8fb7">
+        <Coords points="738,381 738,395 1324,384 1326,371 1321,351 736,354 738,381" />
+        <Baseline points="740,382 1328,373" />
+        <TextEquiv>
+          <Unicode>ĩ apciada p ꝯciliũ ⁊ p manũ iudicis ⁊ nllũ pactũ nc</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_eabb1eee">
+        <Coords points="738,410 738,427 1326,415 1326,400 1321,376 736,384 738,410" />
+        <Baseline points="740,411 1328,401" />
+        <TextEquiv>
+          <Unicode>nulla calupnia nc ĩtet ibi aliqis merinꝰ ni iudex d cõcilio . Et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_08345128" custom="structure {type:default;}">
+        <Coords points="1118,406 1117,406 1099,411 1094,413 1062,411 960,408 959,408 958,408 943,413 939,415 736,415 737,438 737,452 1313,441 1314,429 1312,410 1267,405 1265,405 1170,411 1155,411 1149,411 1119,406 1118,406" />
+        <Baseline points="737,438 1314,429" />
+        <TextEquiv>
+          <Unicode>uadãt ĩ fossadũ tcia d caballariis eiꝰd uille ⁊ alie due</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_fb1da5ba">
+        <Coords points="738,469 738,484 1348,471 1348,457 1343,435 736,440 738,469" />
+        <Baseline points="740,470 1350,459" />
+        <TextEquiv>
+          <Unicode>ptes stẽt ĩ ipa Villa Frãca . Et d illa una tcia qi habuit ire</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6ea1c7d4">
+        <Coords points="738,492 738,504 1336,501 1338,487 1333,465 736,469 738,492" />
+        <Baseline points="740,494 848,492 1340,489" />
+        <TextEquiv>
+          <Unicode>ĩ fossadũ ⁊ forte nõ fuit det ĩ fossadeira V sl ĩ apciadura</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_43ad4c35">
+        <Coords points="738,523 738,541 1341,530 1343,514 1338,492 736,499 738,523" />
+        <Baseline points="740,525 1344,515" />
+        <TextEquiv>
+          <Unicode>⁊ nõ faciãt fossadũ ni c dno suo una uice ĩ ãno aut put</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_67956c5c" custom="structure {type:default;}">
+        <Coords points="738,552 738,568 1220,560 1221,548 1216,525 736,526 738,552" />
+        <Baseline points="739,553 1222,550" />
+        <TextEquiv>
+          <Unicode>uolũtas eor fuit . Et peones ⁊ clici nõ faciãt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>

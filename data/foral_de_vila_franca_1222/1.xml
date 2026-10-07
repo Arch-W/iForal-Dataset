@@ -1,0 +1,878 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-03-02T17:09:26.770816+00:00</Created>
+        <LastChange>2024-03-02T17:09:26.770922+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="1.jpg" imageWidth="1677" imageHeight="2226">
+
+    
+    <TextRegion id="eSc_textblock_327d03fe" custom="structure {type:text;}">
+      <Coords points="1314,202 1324,306 1304,1409 1319,1660 1304,1789 1072,1804 247,1789 252,1028 246,1007 168,993 98,1032 98,984 247,973 257,232 311,217 1280,187" />
+      
+      
+      <TextLine id="eSc_line_6bcf7b7d" custom="structure {type:default;}">
+        <Coords points="495,999 495,1014 717,1010 717,999 716,973 495,973 495,999" />
+        <Baseline points="496,1001 719,1000" />
+        <TextEquiv>
+          <Unicode>Hoc est forum de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c90751f2">
+        <Coords points="712,1001 693,1001 675,1001 673,1001 601,1005 601,1029 601,1040 725,1044 727,1029 725,997 712,997 712,1001" />
+        <Baseline points="602,1031 729,1031" />
+        <TextEquiv>
+          <Unicode>Villa Franca</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_59d4ec5d" custom="structure {type:default;}">
+        <Coords points="259,1025 257,1042 589,1042 591,1031 589,1005 259,999 259,1025" />
+        <Baseline points="260,1027 593,1032" />
+        <TextEquiv>
+          <Unicode>n nne sce ⁊ ĩdiuidue tinitatis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7981d431" custom="structure {type:default;}">
+        <Coords points="256,1054 256,1072 749,1066 749,1054 749,1035 256,1035 256,1054" />
+        <Baseline points="256,1054 749,1054" />
+        <TextEquiv>
+          <Unicode>patis ⁊ filii ⁊ spc sci uniꝰ sũmi Di facimus istam car</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f0d0b19d" custom="structure {type:default;}">
+        <Coords points="256,1085 256,1101 750,1104 751,1085 750,1063 619,1067 607,1064 588,1059 587,1059 586,1059 584,1059 583,1059 578,1064 575,1068 505,1068 494,1066 467,1059 466,1059 465,1059 452,1066 448,1068 404,1068 403,1066 395,1059 394,1059 393,1059 307,1059 306,1059 256,1067 256,1085" />
+        <Baseline points="256,1085 751,1085" />
+        <TextEquiv>
+          <Unicode>tam ĩ ipiꝰ nne tinitatis . Ego rex Sancius cum uxo</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ab4a27e6" custom="structure {type:default;}">
+        <Coords points="256,1115 256,1125 744,1122 745,1113 743,1095 294,1090 293,1090 254,1096 256,1115" />
+        <Baseline points="256,1115 745,1113" />
+        <TextEquiv>
+          <Unicode>re ma regina Dna Dulcia pariter cum filio meo</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_657233ce" custom="structure {type:default;}">
+        <Coords points="256,1143 256,1161 327,1155 502,1159 503,1159 534,1153 751,1158 754,1141 750,1115 254,1116 256,1143" />
+        <Baseline points="256,1143 754,1141" />
+        <TextEquiv>
+          <Unicode>rege Alfonso ⁊ cum aliis filiis ⁊ filiabꝰ mis ub ho</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4f8997ab" custom="structure {type:default;}">
+        <Coords points="254,1173 254,1188 734,1187 734,1173 734,1153 716,1147 714,1147 713,1147 672,1153 656,1147 655,1147 654,1147 619,1153 605,1147 604,1147 525,1147 524,1147 523,1147 521,1147 512,1155 442,1155 409,1147 408,1147 406,1147 390,1153 374,1147 373,1147 372,1147 371,1147 347,1153 328,1147 327,1147 326,1147 254,1153 254,1173" />
+        <Baseline points="254,1173 734,1173" />
+        <TextEquiv>
+          <Unicode>mines de Villa Franca qui ibideẽ pplatores estis p</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b527a118" custom="structure {type:default;}">
+        <Coords points="473,1174 472,1174 460,1178 450,1181 442,1178 432,1174 431,1174 430,1174 254,1179 254,1200 253,1211 756,1214 759,1203 756,1176 717,1182 651,1176 640,1176 639,1176 638,1176 636,1176 636,1177 630,1183 528,1183 498,1178 474,1174 473,1174" />
+        <Baseline points="254,1200 759,1203" />
+        <TextEquiv>
+          <Unicode>mandatum ⁊ de filiis nris siue qi uenint ad pplã</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c7baead9" custom="structure {type:default;}">
+        <Coords points="252,1228 252,1245 753,1244 753,1228 753,1209 252,1209 252,1228" />
+        <Baseline points="252,1228 753,1228" />
+        <TextEquiv>
+          <Unicode>dum facimus ub cartam ⁊ sic ⁊ fecimꝰ p scipturam</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_089e24c1" custom="structure {type:default;}">
+        <Coords points="249,1257 249,1270 749,1270 749,1257 748,1235 249,1236 249,1257" />
+        <Baseline points="249,1257 749,1257" />
+        <TextEquiv>
+          <Unicode>⁊ per pceptum nrm firmiter teneatis ut hatis for</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4686b74c" custom="structure {type:default;}">
+        <Coords points="251,1286 251,1298 744,1299 746,1283 744,1265 249,1263 251,1286" />
+        <Baseline points="251,1286 746,1283" />
+        <TextEquiv>
+          <Unicode>bonum sic hnt homines de Tranco. ⁊ nõ detis nb nc</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5f871a2e" custom="structure {type:default;}">
+        <Coords points="248,1312 247,1324 263,1330 264,1330 265,1330 472,1325 508,1331 509,1331 749,1325 750,1314 749,1292 248,1292 248,1312" />
+        <Baseline points="248,1312 750,1314" />
+        <TextEquiv>
+          <Unicode>ad pgeniem nram nc ad hominẽ p homicidio ni</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8e0ef794" custom="structure {type:default;}">
+        <Coords points="249,1341 249,1356 750,1352 750,1341 749,1320 249,1320 249,1341" />
+        <Baseline points="249,1341 750,1341" />
+        <TextEquiv>
+          <Unicode>septimam de CCC sl ad placium in apciadura per ꝯ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0c27598c" custom="structure {type:default;}">
+        <Coords points="243,1366 242,1382 748,1385 750,1368 748,1345 243,1346 243,1366" />
+        <Baseline points="243,1366 750,1368" />
+        <TextEquiv>
+          <Unicode>cilium ⁊ per manum iudicis ⁊ nullum pactũ nc nu</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5ac92587" custom="structure {type:default;}">
+        <Coords points="246,1391 244,1406 755,1406 756,1393 756,1376 246,1373 246,1391" />
+        <Baseline points="246,1391 756,1393" />
+        <TextEquiv>
+          <Unicode>lla calumpnia nc intret ibi aliquis merinus ni iudex</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_30963297" custom="structure {type:default;}">
+        <Coords points="244,1417 243,1430 751,1430 753,1419 750,1398 244,1398 244,1417" />
+        <Baseline points="244,1417 753,1419" />
+        <TextEquiv>
+          <Unicode>de ꝯcilio . Et uadant ĩ fossado tcia d cauallariis eiꝰdẽ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_97b4c103" custom="structure {type:default;}">
+        <Coords points="247,1444 247,1455 750,1458 751,1444 750,1422 247,1422 247,1444" />
+        <Baseline points="247,1444 751,1444" />
+        <TextEquiv>
+          <Unicode>uille ⁊ alie due partes stent in ipa Villa Franca. Et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4fd58379" custom="structure {type:default;}">
+        <Coords points="242,1467 241,1479 751,1481 754,1470 751,1448 242,1448 242,1467" />
+        <Baseline points="242,1467 754,1470" />
+        <TextEquiv>
+          <Unicode>de illa una tercia qui habuit ire in fossado ⁊ forte n</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6e32e893" custom="structure {type:default;}">
+        <Coords points="246,1496 244,1506 753,1508 755,1498 754,1474 246,1472 246,1496" />
+        <Baseline points="246,1496 755,1498" />
+        <TextEquiv>
+          <Unicode>fuit de in fossadeira V sl ĩ apciadura ⁊ nõ faciant</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f3a6ff22" custom="structure {type:default;}">
+        <Coords points="246,1522 244,1533 750,1540 753,1524 751,1505 246,1498 246,1522" />
+        <Baseline points="246,1522 753,1524" />
+        <TextEquiv>
+          <Unicode>fossadum ni cum dno suo una uice in anno aut p</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6525ce77" custom="structure {type:default;}">
+        <Coords points="246,1548 244,1563 742,1561 743,1550 742,1532 246,1524 246,1548" />
+        <Baseline points="246,1548 743,1550" />
+        <TextEquiv>
+          <Unicode>ut uoluntas eor fuit . Et peones ⁊ clici nõ faciant.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_69981e43" custom="structure {type:default;}">
+        <Coords points="242,1579 242,1597 749,1597 749,1579 749,1559 242,1559 242,1579" />
+        <Baseline points="242,1579 749,1579" />
+        <TextEquiv>
+          <Unicode>Et nõ intret ii nunciꝰ nc manaria d nulloqo homi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_409ce52b" custom="structure {type:default;}">
+        <Coords points="247,1605 246,1621 758,1620 759,1608 758,1589 247,1582 247,1605" />
+        <Baseline points="247,1605 759,1608" />
+        <TextEquiv>
+          <Unicode>ne p forum d Villa Franca. Et qui in termino de Vi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a544c8a6" custom="structure {type:default;}">
+        <Coords points="248,1632 247,1643 746,1648 749,1637 748,1616 248,1612 248,1632" />
+        <Baseline points="248,1632 749,1637" />
+        <TextEquiv>
+          <Unicode>lla Franca filiam alienam rausauit ꝯ suam uolun</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a41618ac" custom="structure {type:default;}">
+        <Coords points="248,1662 247,1673 259,1679 260,1679 262,1679 368,1674 587,1681 588,1681 756,1675 758,1665 756,1639 248,1637 248,1662" />
+        <Baseline points="248,1662 758,1665" />
+        <TextEquiv>
+          <Unicode>tatẽ pectet ad suos parentes CCC sl ⁊ VII.ᵃ ad placiũ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_3947e5a3" custom="structure {type:default;}">
+        <Coords points="248,1689 247,1699 753,1704 755,1694 754,1674 248,1664 248,1689" />
+        <Baseline points="248,1689 755,1694" />
+        <TextEquiv>
+          <Unicode>⁊ exeat homizieiro d suis parentibꝰ . Et si quis inter</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2dae4809" custom="structure {type:default;}">
+        <Coords points="247,1717 246,1731 751,1732 754,1721 754,1697 247,1695 247,1717" />
+        <Baseline points="247,1717 754,1721" />
+        <TextEquiv>
+          <Unicode>uos ĩ mcato aut in ecc aut in ꝯcilio pconato a pco</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_591de422" custom="structure {type:default;}">
+        <Coords points="246,1744 244,1759 411,1757 419,1763 420,1763 421,1763 422,1763 442,1763 545,1758 749,1764 751,1748 750,1730 713,1722 712,1722 246,1723 246,1744" />
+        <Baseline points="246,1744 751,1748" />
+        <TextEquiv>
+          <Unicode>ne feridam fecit ad suum uicinũ pectet LX sl ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9d5ee920" custom="structure {type:default;}">
+        <Coords points="247,1754 247,1773 246,1799 298,1790 356,1799 357,1799 358,1799 387,1789 421,1795 422,1795 424,1795 425,1795 431,1791 440,1799 445,1803 445,1804 446,1804 447,1804 448,1805 531,1805 531,1804 533,1804 534,1804 542,1798 546,1795 552,1798 565,1803 566,1803 567,1803 596,1798 627,1791 665,1791 674,1796 682,1801 683,1801 685,1801 686,1801 687,1801 693,1796 699,1793 745,1795 748,1779 746,1758 249,1752 247,1754" />
+        <Baseline points="247,1773 748,1779" />
+        <TextEquiv>
+          <Unicode>ꝯcilium ⁊ VII.ᵃ ad placiũ p manũ de iudice. Et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_023b56b6" custom="structure {type:default;}">
+        <Coords points="973,196 965,196 943,205 921,197 913,197 891,206 857,200 849,200 837,200 824,201 812,206 813,233 813,252 1303,244 1304,226 1301,200 1255,200 1245,191 1245,190 1244,190 1242,190 1221,190 1220,190 1111,194 1110,194 1109,194 1098,202 1057,195 1056,195 1054,195 1053,195 1053,196 1043,204 1043,205 1036,205 1019,205 984,196 973,196" />
+        <Baseline points="813,233 1304,226" />
+        <TextEquiv>
+          <Unicode>de furto qlibet sedeat colligat suis dnis suũ cabdal</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_380c060f" custom="structure {type:default;}">
+        <Coords points="813,264 813,277 1308,269 1308,258 1304,238 812,243 813,264" />
+        <Baseline points="813,264 1308,258" />
+        <TextEquiv>
+          <Unicode>⁊ ipam calumpniã diuidant per mediũ cum iudice.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f33efc12" custom="structure {type:default;}">
+        <Coords points="812,295 812,306 1297,299 1297,288 1293,263 1051,272 1005,265 1002,265 1001,265 999,265 955,273 920,267 918,267 881,274 811,268 812,295" />
+        <Baseline points="812,295 1297,288" />
+        <TextEquiv>
+          <Unicode>Et qui domũ edificauit aut uineas aut heditatẽ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_883415eb" custom="structure {type:default;}">
+        <Coords points="815,322 815,338 1317,330 1317,314 1313,296 813,304 815,322" />
+        <Baseline points="815,322 1317,314" />
+        <TextEquiv>
+          <Unicode>suam honorauit ⁊ uno anno in uilla sedit ⁊ pꝰtea ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_54535856" custom="structure {type:default;}">
+        <Coords points="813,351 813,362 1297,354 1298,343 1296,325 892,324 891,324 890,324 889,324 889,325 887,325 884,330 847,325 845,325 812,331 813,351" />
+        <Baseline points="813,351 1298,343" />
+        <TextEquiv>
+          <Unicode>illam tram fuit qomo seruiat ei tota sua heditas ui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f6caa438" custom="structure {type:default;}">
+        <Coords points="813,377 813,392 1307,387 1308,369 1304,347 812,357 813,377" />
+        <Baseline points="813,377 1308,369" />
+        <TextEquiv>
+          <Unicode>ille habitans fuit . Et si quesierit illas uendere uen</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d8bbe938" custom="structure {type:default;}">
+        <Coords points="813,406 813,417 1298,413 1299,399 1296,379 812,385 813,406" />
+        <Baseline points="813,406 1299,399" />
+        <TextEquiv>
+          <Unicode>dat ad quem uoluit p for de Villa Franca. Et homi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_fdee8671" custom="structure {type:default;}">
+        <Coords points="813,436 813,450 1307,437 1307,427 1303,404 812,411 813,436" />
+        <Baseline points="813,436 1307,427" />
+        <TextEquiv>
+          <Unicode>nes de Villa Franca qomo habuint iudiciũ aut aiũtã</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_703b7b00" custom="structure {type:default;}">
+        <Coords points="812,463 812,478 1305,463 1305,453 1302,429 811,439 812,463" />
+        <Baseline points="812,463 1305,453" />
+        <TextEquiv>
+          <Unicode>cum hominibꝰ de aliis tris hat illas in cabo de suis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_17c5e5c1" custom="structure {type:default;}">
+        <Coords points="812,493 812,507 1314,498 1314,482 1310,457 811,471 812,493" />
+        <Baseline points="812,493 1314,482" />
+        <TextEquiv>
+          <Unicode>tminis . Et dono ub for qd stet cauallariꝰ de Villa Frã</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7d080171" custom="structure {type:default;}">
+        <Coords points="812,521 812,533 1303,526 1303,511 1299,490 811,498 812,521" />
+        <Baseline points="812,521 1303,511" />
+        <TextEquiv>
+          <Unicode>ca p infanzõ de totis aliis terris tam in iudicio qm</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5d34f077" custom="structure {type:default;}">
+        <Coords points="812,549 812,561 1314,552 1314,539 1310,519 811,529 812,549" />
+        <Baseline points="812,549 1314,539" />
+        <TextEquiv>
+          <Unicode>in iuramto ⁊ passent super illos cum duobꝰ iuratori</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_784ad9f7" custom="structure {type:default;}">
+        <Coords points="812,577 812,588 1307,588 1307,572 1304,552 811,552 812,577" />
+        <Baseline points="812,577 1307,572" />
+        <TextEquiv>
+          <Unicode>bꝰ . Et peones de Villa Franca q passet super illos cum</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a5aafbff" custom="structure {type:default;}">
+        <Coords points="810,608 810,622 1303,612 1303,602 1299,577 808,579 810,608" />
+        <Baseline points="810,608 1303,602" />
+        <TextEquiv>
+          <Unicode>caballariis uillanis de totis aliis terris ĩ iudicio ⁊</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_45d3349e" custom="structure {type:default;}">
+        <Coords points="811,636 811,648 1301,648 1302,630 1298,605 810,614 811,636" />
+        <Baseline points="811,636 1302,630" />
+        <TextEquiv>
+          <Unicode>in iuramento cum duobꝰ iuratoribꝰ . Et homines qi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_232f1ab5" custom="structure {type:default;}">
+        <Coords points="812,665 812,676 1308,671 1309,656 1305,636 811,644 812,665" />
+        <Baseline points="812,665 1309,656" />
+        <TextEquiv>
+          <Unicode>de suis terris exierint cum homicidio au cũ muliere</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e6f227bf" custom="structure {type:default;}">
+        <Coords points="811,692 811,709 1303,702 1304,685 1301,666 810,671 811,692" />
+        <Baseline points="811,692 1304,685" />
+        <TextEquiv>
+          <Unicode>rausada l cum alia calumpnia quelibet sit ni quod</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d85eaade" custom="structure {type:default;}">
+        <Coords points="812,722 812,732 1307,725 1307,714 1303,695 811,701 812,722" />
+        <Baseline points="812,722 1307,714" />
+        <TextEquiv>
+          <Unicode>nõ adducat mulierẽ alienam de bndicoe ⁊ tornet se</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d9b4169d" custom="structure {type:default;}">
+        <Coords points="810,749 810,760 1302,759 1303,744 1299,722 808,722 810,749" />
+        <Baseline points="810,749 1303,744" />
+        <TextEquiv>
+          <Unicode>ad seniorẽ de Villa Franca ⁊ sit soltus ⁊ defesus p</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5067e0c6" custom="structure {type:default;}">
+        <Coords points="810,776 810,790 1303,782 1304,771 1301,753 808,755 810,776" />
+        <Baseline points="810,776 1304,771" />
+        <TextEquiv>
+          <Unicode>for de Villa Franca. Et si quis ho de qcumq tra c ini</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9fdf687b" custom="structure {type:default;}">
+        <Coords points="811,802 811,816 1303,813 1304,797 1301,775 810,780 811,802" />
+        <Baseline points="811,802 1304,797" />
+        <TextEquiv>
+          <Unicode>micitate aut cum pignore uenit ⁊ in tmino de Villa</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_88b93a71" custom="structure {type:default;}">
+        <Coords points="810,827 810,839 1299,834 1301,822 1297,805 808,805 810,827" />
+        <Baseline points="810,827 1301,822" />
+        <TextEquiv>
+          <Unicode>Franca intratus fuit ⁊ aliquis inimicꝰ pꝰ illũ intra</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1a919fc0" custom="structure {type:default;}">
+        <Coords points="808,854 808,871 1304,863 1305,850 1302,828 807,833 808,854" />
+        <Baseline points="808,854 1305,850" />
+        <TextEquiv>
+          <Unicode>uit ⁊ pignora tollit aut male illi fecit pectet ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2d931c6b" custom="structure {type:default;}">
+        <Coords points="1305,859 807,863 808,885 808,896 1310,889 1312,878 1308,861 1305,859" />
+        <Baseline points="808,885 1312,878" />
+        <TextEquiv>
+          <Unicode>seniorẽ de Villa Franca XXX sl ⁊ duplet illa pignora</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_3f7ad11b" custom="structure {type:default;}">
+        <Coords points="807,910 807,923 1313,925 1315,907 1313,887 806,885 807,910" />
+        <Baseline points="807,910 1315,907" />
+        <TextEquiv>
+          <Unicode>aut illos liuores. Et qui homies de Villa Franca pi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_28b57bbb" custom="structure {type:default;}">
+        <Coords points="808,941 808,955 1307,952 1307,941 1307,916 808,915 808,941" />
+        <Baseline points="808,941 1307,941" />
+        <TextEquiv>
+          <Unicode>gnorauit ⁊ ĩ ꝯcilio directum nõ pecierit pectet ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b303851c" custom="structure {type:default;}">
+        <Coords points="807,968 807,979 1302,976 1303,965 1299,944 806,948 807,968" />
+        <Baseline points="807,968 1303,965" />
+        <TextEquiv>
+          <Unicode>seniorẽ de Villa Franca LX sl . Et ho de Villa Franca</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_24a8ee75" custom="structure {type:default;}">
+        <Coords points="807,995 807,1011 1296,1002 1297,991 1293,970 806,970 807,995" />
+        <Baseline points="807,995 1297,991" />
+        <TextEquiv>
+          <Unicode>qi captꝰ fuit ab alio homie ⁊ ĩ pisioe miserit pectet</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7f288405" custom="structure {type:default;}">
+        <Coords points="805,1022 805,1032 1307,1027 1307,1017 1303,993 803,1001 805,1022" />
+        <Baseline points="805,1022 1307,1017" />
+        <TextEquiv>
+          <Unicode>illi CCC sl . Et si homies de Villa Franca ꝯphendint</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_fd9db477" custom="structure {type:default;}">
+        <Coords points="805,1048 805,1062 1302,1062 1303,1043 1301,1026 803,1026 805,1048" />
+        <Baseline points="805,1048 1303,1043" />
+        <TextEquiv>
+          <Unicode>homines de alia tra ⁊ ĩ pisioe eos misit pectet illi V</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9db9deb7" custom="structure {type:default;}">
+        <Coords points="806,1080 806,1091 1299,1087 1301,1077 1298,1056 805,1053 806,1080" />
+        <Baseline points="806,1080 1301,1077" />
+        <TextEquiv>
+          <Unicode>sl . Et si homies d Villa Franca p qcumq fiaduria</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_19b8b874" custom="structure {type:default;}">
+        <Coords points="803,1111 803,1122 1305,1116 1307,1105 1303,1077 1297,1078 1266,1084 802,1087 803,1111" />
+        <Baseline points="803,1111 1307,1105" />
+        <TextEquiv>
+          <Unicode>a medio anno illum nõ reqisit nũqm respondeat. Et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_41563fb4" custom="structure {type:default;}">
+        <Coords points="810,1140 810,1153 1297,1147 1298,1135 1296,1115 1182,1109 1181,1109 1179,1109 1156,1115 848,1113 847,1113 808,1119 810,1140" />
+        <Baseline points="810,1140 1298,1135" />
+        <TextEquiv>
+          <Unicode>si migtꝰ fuit sint filii ⁊ uxor eiꝰ libi . Et homies de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a4f4305a" custom="structure {type:default;}">
+        <Coords points="803,1168 803,1179 1304,1176 1305,1164 1303,1146 1209,1140 1208,1140 802,1146 803,1168" />
+        <Baseline points="803,1168 1305,1164" />
+        <TextEquiv>
+          <Unicode>Villa Franca nõ soluant sua pignora p nullo senior</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_50119a46" custom="structure {type:default;}">
+        <Coords points="805,1200 805,1209 1298,1203 1299,1194 1297,1174 1205,1168 1204,1168 1203,1168 1202,1168 1202,1169 1195,1174 813,1173 812,1173 811,1173 810,1173 803,1177 805,1200" />
+        <Baseline points="805,1200 1299,1194" />
+        <TextEquiv>
+          <Unicode>ni p suo uicino. ⁊ nõ dent pausadam p for ĩ casa de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5c462cb9" custom="structure {type:default;}">
+        <Coords points="803,1225 803,1241 1301,1237 1302,1221 1298,1198 802,1204 803,1225" />
+        <Baseline points="803,1225 1302,1221" />
+        <TextEquiv>
+          <Unicode>caualeiro nc de clicis nc de uiduis ni ĩ casas de peonibꝰ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_43462b32" custom="structure {type:default;}">
+        <Coords points="803,1255 803,1270 1313,1261 1313,1249 1309,1229 802,1234 803,1255" />
+        <Baseline points="803,1255 1313,1249" />
+        <TextEquiv>
+          <Unicode>p manum iudicis. Et si homies de Villa Franca tenu</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0fc48033" custom="structure {type:default;}">
+        <Coords points="802,1282 802,1296 1301,1296 1302,1278 1298,1257 801,1260 802,1282" />
+        <Baseline points="802,1282 1302,1278" />
+        <TextEquiv>
+          <Unicode>erint ĩ suis heditatibꝰ aut ĩ suis solaribꝰ ⁊ nõ fuit ibi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_3a30e7f7" custom="structure {type:default;}">
+        <Coords points="802,1314 803,1331 828,1325 1012,1326 1120,1326 1121,1326 1299,1318 1301,1307 1297,1283 1126,1289 1084,1284 1077,1284 1075,1284 1074,1284 1072,1284 1048,1291 1041,1286 1041,1284 1040,1284 1038,1284 972,1284 970,1284 969,1284 968,1284 968,1286 967,1286 962,1292 801,1288 802,1314" />
+        <Baseline points="802,1314 1301,1307" />
+        <TextEquiv>
+          <Unicode>suus senior ueniat ad sinal de iudice ⁊ det fiadorẽ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_97f05126" custom="structure {type:default;}">
+        <Coords points="957,1313 800,1319 801,1340 801,1350 1291,1346 1291,1336 1288,1317 958,1313 957,1313" />
+        <Baseline points="801,1340 1291,1336" />
+        <TextEquiv>
+          <Unicode>ad iudiciũ dni sui ⁊ tunc faciat q mandauint ⁊</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1d620b61" custom="structure {type:default;}">
+        <Coords points="803,1367 803,1378 1296,1373 1297,1362 1294,1345 943,1341 942,1341 802,1349 803,1367" />
+        <Baseline points="803,1367 1297,1362" />
+        <TextEquiv>
+          <Unicode>calũpnia qcumq fecit sit de suo seniore ⁊ VII.ᵃ ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_91fa802f" custom="structure {type:default;}">
+        <Coords points="805,1394 805,1407 1297,1401 1297,1391 1293,1371 803,1371 805,1394" />
+        <Baseline points="805,1394 1297,1391" />
+        <TextEquiv>
+          <Unicode>placiũ ⁊ nõ suiat ad aliquẽ hominẽ ni ad suũ senio</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1e532b24" custom="structure {type:default;}">
+        <Coords points="805,1419 805,1432 1292,1429 1293,1414 1289,1397 803,1401 805,1419" />
+        <Baseline points="805,1419 1293,1414" />
+        <TextEquiv>
+          <Unicode>rẽ sub cuiꝰ solar moratur. Et sua senara aut uinea</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9466dc0c" custom="structure {type:default;}">
+        <Coords points="802,1444 802,1459 1289,1454 1291,1439 1287,1420 801,1420 802,1444" />
+        <Baseline points="802,1444 1291,1439" />
+        <TextEquiv>
+          <Unicode>de nro rege tale cautum hant d iudicio d Villa</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ed01092e" custom="structure {type:default;}">
+        <Coords points="800,1469 800,1484 1294,1480 1296,1465 1292,1444 798,1448 800,1469" />
+        <Baseline points="800,1469 1296,1465" />
+        <TextEquiv>
+          <Unicode>Franca. Et qui uicinũ occidit in suã casam fugit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f638c24e" custom="structure {type:default;}">
+        <Coords points="802,1497 802,1509 1293,1503 1294,1492 1291,1472 801,1476 802,1497" />
+        <Baseline points="802,1497 1294,1492" />
+        <TextEquiv>
+          <Unicode>qi pꝰ illum intrauit ⁊ ĩ sua casa illũ occidit pectet</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ab00bb5a" custom="structure {type:default;}">
+        <Coords points="800,1526 800,1537 1298,1537 1298,1522 1294,1500 798,1501 800,1526" />
+        <Baseline points="800,1526 1298,1522" />
+        <TextEquiv>
+          <Unicode>CCC sl ad parentes de mortuo. Et qi mulierẽ p forciã</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_3dd72811" custom="structure {type:default;}">
+        <Coords points="800,1552 800,1564 1289,1564 1291,1549 1288,1528 798,1528 800,1552" />
+        <Baseline points="800,1552 1291,1549" />
+        <TextEquiv>
+          <Unicode>habuit ⁊ illa uoces mittendo uenit ⁊ ille se cũ XII.ⁱᵐ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_15d8042c" custom="structure {type:default;}">
+        <Coords points="800,1579 800,1590 1286,1587 1287,1574 1284,1554 798,1554 800,1579" />
+        <Baseline points="800,1579 1287,1574" />
+        <TextEquiv>
+          <Unicode>saluare nõ potuit pectet CCC sl ipi mulieri ⁊ ss</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_97afa572" custom="structure {type:default;}">
+        <Coords points="801,1607 801,1624 1284,1613 1286,1601 1283,1582 896,1581 895,1581 800,1587 801,1607" />
+        <Baseline points="801,1607 1286,1601" />
+        <TextEquiv>
+          <Unicode>parẽtibꝰ . Et qui mulierẽ alienã ferierit pectet ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_44b5293d" custom="structure {type:default;}">
+        <Coords points="797,1636 797,1648 1297,1644 1298,1629 1294,1603 796,1610 797,1636" />
+        <Baseline points="797,1636 1298,1629" />
+        <TextEquiv>
+          <Unicode>suũ maritũ XXX sl ⁊ VII.ᵃ ad placium . Et homo de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2b1bfc8b" custom="structure {type:default;}">
+        <Coords points="796,1665 796,1678 1309,1679 1312,1662 1309,1639 795,1638 796,1665" />
+        <Baseline points="796,1665 1312,1662" />
+        <TextEquiv>
+          <Unicode>Villa Franca qui fiadores parar p q calũpnia illũ pe</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_92345253" custom="structure {type:default;}">
+        <Coords points="796,1695 796,1710 1298,1699 1298,1689 1296,1670 901,1668 900,1668 805,1669 803,1669 802,1669 795,1673 796,1695" />
+        <Baseline points="796,1695 1298,1689" />
+        <TextEquiv>
+          <Unicode>cierint ⁊ ille fiador outorgare cum duobꝰ uicinis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_84880cd5" custom="structure {type:default;}">
+        <Coords points="797,1721 797,1733 1280,1733 1281,1717 1277,1697 796,1701 797,1721" />
+        <Baseline points="797,1721 1281,1717" />
+        <TextEquiv>
+          <Unicode>⁊ ille nõ quesierit outorgare fiador ⁊ super ipm</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_89936997" custom="structure {type:default;}">
+        <Coords points="797,1751 797,1764 1302,1761 1302,1744 1299,1726 796,1726 797,1751" />
+        <Baseline points="797,1751 1302,1744" />
+        <TextEquiv>
+          <Unicode>occidit nos totũ ꝯcilium pectabs ipm homicidium.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f6450baf" custom="structure {type:default;}">
+        <Coords points="1190,1747 1189,1747 1131,1752 1103,1754 1098,1752 1089,1748 1088,1748 1087,1748 1085,1748 1072,1752 1058,1756 1033,1752 1016,1749 1015,1749 1014,1749 1012,1749 1012,1751 1010,1752 1006,1757 932,1757 905,1752 897,1751 896,1751 886,1752 839,1758 790,1752 791,1780 791,1800 849,1800 853,1801 884,1811 885,1811 886,1811 887,1811 906,1801 912,1801 938,1801 948,1811 948,1812 949,1812 951,1812 952,1812 1071,1811 1072,1811 1073,1811 1088,1801 1098,1796 1169,1796 1178,1801 1190,1810 1192,1810 1193,1810 1194,1810 1195,1810 1211,1801 1223,1796 1241,1801 1267,1809 1268,1809 1270,1809 1271,1809 1299,1801 1299,1774 1297,1753 1224,1747 1223,1747 1221,1747 1210,1752 1208,1753 1205,1752 1192,1747 1190,1747" />
+        <Baseline points="791,1780 1299,1774" />
+        <TextEquiv>
+          <Unicode>Et palaciũ regis ul de epo hant calũpniã ⁊ tota</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    </Page>
+</PcGts>

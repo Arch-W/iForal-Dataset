@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-07-01T16:13:20.377859+00:00</Created>
+        <LastChange>2024-07-01T16:13:20.377906+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="2.jpg" imageWidth="1532" imageHeight="2002">
+
+    
+    <TextRegion id="eSc_textblock_555b65b8" custom="structure {type:text;}">
+      <Coords points="1134,35 1278,35 1301,57 1323,44 1353,57 1345,101 1305,102 1300,577 1305,701 1380,716 1371,746 1323,750 1309,769 1328,827 1385,840 1362,870 1331,845 1345,866 1322,889 1322,977 1371,1005 1371,1035 1353,1045 1353,1075 1309,1103 1313,1382 1358,1410 1349,1449 1318,1468 1313,1507 1322,1555 1376,1570 1371,1604 1327,1662 1184,1680 661,1667 572,1680 540,1725 173,1729 129,1653 111,1534 80,1520 84,1468 133,1453 133,1414 111,1409 133,1395 129,1276 106,1275 102,1254 133,1235 151,48 1134,35" />
+      
+      
+      <TextLine id="eSc_line_884592a9" custom="structure {type:default;}">
+        <Coords points="702,40 685,40 669,40 652,40 635,41 619,41 602,41 585,41 569,41 552,41 535,41 519,41 502,43 485,43 468,43 452,43 435,43 418,43 402,43 385,45 368,45 352,45 335,45 318,45 302,45 285,45 268,46 251,46 235,46 218,46 201,46 185,46 168,46 151,46 153,68 153,81 712,85 715,63 710,40 702,40" />
+        <Baseline points="154,70 564,68 717,65" />
+        <TextEquiv>
+          <Unicode>qi heditatẽ habuit nõ faciãt fossado ni p foro d Marialua.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5f63ef32" custom="structure {type:default;}">
+        <Coords points="150,70 151,95 151,115 690,106 692,91 689,70 158,70 150,70" />
+        <Baseline points="153,96 557,95 693,92" />
+        <TextEquiv>
+          <Unicode>Et toto hoie d Marialua qi habuit mulier ad bndcoem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5e4c0c46" custom="structure {type:default;}">
+        <Coords points="554,95 537,95 520,95 512,95 155,96 155,120 153,136 695,136 697,118 692,93 557,93 554,95" />
+        <Baseline points="156,121 556,123 699,120" />
+        <TextEquiv>
+          <Unicode>⁊ laxauit illã qomo pctet ad iudice I d . Et si mulier suũ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6b141ecb" custom="structure {type:default;}">
+        <Coords points="367,121 350,121 333,121 317,121 300,121 283,121 267,121 250,121 233,121 216,121 200,121 183,121 166,121 163,118 151,118 151,143 150,166 702,166 704,146 700,126 370,121 367,121" />
+        <Baseline points="152,145 623,150 705,148" />
+        <TextEquiv>
+          <Unicode>maritũ laxauit qi habuit ad bndcoem qomo pctet CCC sl</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_dd4b6a42" custom="structure {type:default;}">
+        <Coords points="151,173 150,186 689,191 692,176 689,155 151,151 151,173" />
+        <Baseline points="152,174 580,179 693,177" />
+        <TextEquiv>
+          <Unicode>medios a palacio ⁊ mdios a suo marito. Et d casa derota</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_67b1f01b" custom="structure {type:default;}">
+        <Coords points="153,203 151,216 690,220 694,206 692,180 153,176 153,203" />
+        <Baseline points="155,205 695,207" />
+        <TextEquiv>
+          <Unicode>cũ scutos ⁊ cũ lãzas , qi la dirũpe pctet CCC sl medios</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_402651b4" custom="structure {type:default;}">
+        <Coords points="150,230 148,245 699,245 700,231 695,206 150,206 150,230" />
+        <Baseline points="151,231 560,235 702,232" />
+        <TextEquiv>
+          <Unicode>a dono d la casa ⁊ mdios a pal . Et qi dedit ad suo uicino cũ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a69beac4" custom="structure {type:default;}">
+        <Coords points="151,256 150,276 697,276 699,258 694,235 151,235 151,256" />
+        <Baseline points="152,258 525,263 700,260" />
+        <TextEquiv>
+          <Unicode>espada XL sl ⁊ VII.ª a pal . Et qi dedit cũ lãza ad suo ui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_63bf29af" custom="structure {type:default;}">
+        <Coords points="148,285 146,301 483,313 485,313 525,305 529,305 532,305 605,313 607,313 709,305 710,291 709,263 148,263 148,285" />
+        <Baseline points="149,286 626,293 712,292" />
+        <TextEquiv>
+          <Unicode>cino ⁊ exierit d una pars ad alia pctet XX.ᵗⁱ sl ⁊ VII.ª a pal .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c5338534" custom="structure {type:default;}">
+        <Coords points="682,293 665,293 649,293 632,293 625,291 148,288 148,315 146,337 697,337 699,318 695,293 682,293" />
+        <Baseline points="149,316 592,321 700,319" />
+        <TextEquiv>
+          <Unicode>Et si nõ exierit pectet X sl ⁊ VII.ª a pal . Et d plaga un</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ea0dee45" custom="structure {type:default;}">
+        <Coords points="148,340 146,358 704,362 707,343 705,323 148,320 148,340" />
+        <Baseline points="149,341 604,345 709,344" />
+        <TextEquiv>
+          <Unicode>osso exierit cada osso X sl ⁊ VII a palaco . Et d alia plaga</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_490c48fb" custom="structure {type:default;}">
+        <Coords points="148,368 146,383 694,387 697,370 694,347 148,347 148,368" />
+        <Baseline points="150,369 614,373 699,372" />
+        <TextEquiv>
+          <Unicode>V sl ⁊ VII a pal . ⁊ p tota pignora siue d cõcilio l d pal</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8959a7d0" custom="structure {type:default;}">
+        <Coords points="150,399 149,411 288,420 289,420 702,417 703,403 700,379 654,384 648,380 648,379 647,379 646,379 603,379 601,379 600,379 599,379 589,385 564,379 556,378 555,378 554,378 548,379 528,384 486,380 467,378 466,378 426,380 371,383 366,380 360,377 359,377 358,377 357,377 356,377 347,380 340,384 291,384 285,381 278,375 277,375 275,375 274,375 150,381 150,399" />
+        <Baseline points="150,399 703,403" />
+        <TextEquiv>
+          <Unicode>colligat fiador sup illa pignora ⁊ pro a fforo. Et dono ub</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c8acf568" custom="structure {type:default;}">
+        <Coords points="153,430 151,443 694,445 697,430 692,407 153,408 153,430" />
+        <Baseline points="155,432 570,434 699,432" />
+        <TextEquiv>
+          <Unicode>q nõ habeat nulla defesa nec nullo mõte nc nllo pelago</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f4a8ece0" custom="structure {type:default;}">
+        <Coords points="153,460 153,473 695,472 697,458 694,440 151,435 153,460" />
+        <Baseline points="155,461 699,459" />
+        <TextEquiv>
+          <Unicode>ni d toto ꝯcilio . Et illo mõtatico d tmino d Marialua mõ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f7ef5e47" custom="structure {type:default;}">
+        <Coords points="145,470 145,487 143,500 699,503 702,490 699,463 150,465 145,470" />
+        <Baseline points="146,488 613,492 704,491" />
+        <TextEquiv>
+          <Unicode>tẽ los caualeiros d Marialua cũ suo senior ⁊ pndãt in la t</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_54683367" custom="structure {type:default;}">
+        <Coords points="694,492 677,492 660,492 644,492 627,492 624,490 143,490 143,513 141,530 707,538 710,517 707,492 694,490 694,492" />
+        <Baseline points="145,514 594,519 711,518" />
+        <TextEquiv>
+          <Unicode>ciã . ⁊ nullo ganato d Marialua nõ sedeat mõtado . Et por</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d7d276b1" custom="structure {type:default;}">
+        <Coords points="143,542 141,557 707,560 710,545 707,525 143,520 143,542" />
+        <Baseline points="144,543 483,548 711,546" />
+        <TextEquiv>
+          <Unicode>tatico d pam ⁊ d uino, d la carrega III meaias ⁊ de cauallo</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c7409561" custom="structure {type:default;}">
+        <Coords points="147,571 146,588 193,583 235,589 244,590 245,590 258,589 318,583 347,589 359,591 360,592 460,592 460,591 461,591 462,591 465,589 471,585 497,589 519,592 520,592 555,589 586,586 704,588 706,575 705,553 147,553 147,571" />
+        <Baseline points="147,571 706,575" />
+        <TextEquiv>
+          <Unicode>⁊ d mulo qi lo uẽdidit I sl . ⁊ d boue ⁊ d asino VI d . De</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_26e0542a" custom="structure {type:default;}">
+        <Coords points="143,585 143,598 141,612 707,615 710,598 705,575 150,577 143,585" />
+        <Baseline points="145,599 525,602 711,600" />
+        <TextEquiv>
+          <Unicode>carneiro aut d cap aut d porco III meal . Et d toto por</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_096d3b8c" custom="structure {type:default;}">
+        <Coords points="143,645 211,647 212,647 228,645 270,638 304,645 325,648 327,649 327,648 349,645 370,640 376,643 381,648 382,648 383,648 384,648 411,643 422,642 428,643 443,649 445,649 446,649 447,649 448,649 456,643 460,641 466,643 472,646 473,646 475,646 506,643 544,640 548,643 551,647 552,647 554,647 555,647 556,647 557,647 560,643 565,640 580,643 615,649 616,649 617,649 618,649 627,642 630,641 671,641 675,642 689,650 690,650 692,650 693,650 694,650 705,642 706,628 705,610 557,605 556,605 555,605 548,607 538,611 521,607 512,605 511,605 510,605 509,605 505,607 493,611 479,606 475,605 473,605 472,605 471,605 470,605 469,606 461,612 428,612 401,605 393,603 392,603 378,605 325,610 315,603 314,603 313,603 312,603 311,603 310,603 287,610 273,603 272,603 271,603 270,603 269,603 261,610 163,610 145,601 144,623 143,645" />
+        <Baseline points="144,623 706,628" />
+        <TextEquiv>
+          <Unicode>tatico qi a Marialua uenit pndat suus hospes rciã .</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_676d41e1" custom="structure {type:default;}">
+        <Coords points="140,674 140,692 715,694 717,674 717,645 677,633 675,633 674,633 615,645 610,645 605,645 525,633 483,633 482,633 480,633 478,633 465,643 462,645 457,643 428,633 427,633 425,633 385,642 383,642 348,633 347,633 345,633 343,633 325,642 317,647 255,647 241,640 223,633 221,633 220,633 140,638 140,674" />
+        <Baseline points="141,675 719,675" />
+        <TextEquiv>
+          <Unicode>Ego A Di g Port rex, una cũ uxore ma reg Dna Vrraca</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7661b087" custom="structure {type:default;}">
+        <Coords points="143,700 141,720 702,724 705,704 704,682 143,675 143,700" />
+        <Baseline points="144,702 707,705" />
+        <TextEquiv>
+          <Unicode>⁊ filiis mis infantibꝰ Dno Sancio ⁊ Dõno Alfonso ⁊ Dõna</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8f01fdb5" custom="structure {type:default;}">
+        <Coords points="141,735 140,747 206,757 208,757 704,752 705,737 704,712 141,710 141,735" />
+        <Baseline points="143,736 707,739" />
+        <TextEquiv>
+          <Unicode>Alionor, istã cartã supsciptã ⁊ istud for qd ub dedit ⁊ ꝯ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_425851eb" custom="structure {type:default;}">
+        <Coords points="141,764 140,775 704,780 707,769 705,740 141,740 141,764" />
+        <Baseline points="142,765 702,770 709,770" />
+        <TextEquiv>
+          <Unicode>ssecit auꝰ ms rex Dõnꝰ Alfõsꝰ excellẽtissime memorie, ꝯcedo</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5b08118f" custom="structure {type:default;}">
+        <Coords points="143,794 143,812 712,812 712,794 710,772 143,772 143,794" />
+        <Baseline points="144,795 714,795" />
+        <TextEquiv>
+          <Unicode>ego ub ⁊ ꝯfirmo p hoc sciptũ . Et ut ma ꝯcessio ⁊ ꝯfrimato</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_3c90ce2e" custom="structure {type:default;}">
+        <Coords points="138,805 140,819 140,837 709,840 712,817 707,799 146,799 138,805" />
+        <Baseline points="141,820 713,818" />
+        <TextEquiv>
+          <Unicode>ĩ ppetuũ firmũ robur obtineat, pcepi hãc cartã scribi ⁊ sigi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e90b24af" custom="structure {type:default;}">
+        <Coords points="141,848 140,859 191,867 192,867 309,863 343,861 369,864 423,868 424,868 507,866 601,863 704,868 706,850 705,834 664,827 663,827 661,827 641,833 638,833 635,833 611,827 610,827 481,829 388,831 381,828 379,826 378,826 377,826 376,826 374,826 370,828 362,831 308,827 291,826 290,826 289,826 288,826 288,827 281,831 269,826 268,826 267,826 265,826 264,826 262,826 241,831 219,826 218,826 216,826 215,826 193,831 141,825 141,848" />
+        <Baseline points="141,848 706,850" />
+        <TextEquiv>
+          <Unicode>llo mo plũbeo ꝯmuniri . Facta fuit carta apd Colĩbia , mẽse No</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2677d74e" custom="structure {type:default;}">
+        <Coords points="138,874 136,885 577,899 580,880 579,854 138,849 138,874" />
+        <Baseline points="139,875 581,882" />
+        <TextEquiv>
+          <Unicode>uenbis ĩ e M.ᵃ CC.ᵃ L.ᵃ V.ᵃ. Et ego ⁊ uxor ma ⁊ filii nri</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      </TextRegion>
+    
+    </Page>
+</PcGts>
