@@ -1,10 +1,5 @@
 # iForal - Dataset
 
-![Chars Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Arch-W/94e2fc8cbb4a71eeacfbb46672d6ff7f/raw/chars.json)
-![Lines Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Arch-W/94e2fc8cbb4a71eeacfbb46672d6ff7f/raw/lines.json)
-![Regions Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Arch-W/94e2fc8cbb4a71eeacfbb46672d6ff7f/raw/regions.json)
-
-
 This dataset was designed for training machine learning models in the context of the [iForal project](https://iforal.hypotheses.org/), which focuses on transcribing medieval Portuguese texts, specifically forais (charters).
 It includes images of medieval manuscripts, along with corresponding line-level transcription labels, to facilitate the development of models capable of recognizing and transcribing historical handwriting.
 
